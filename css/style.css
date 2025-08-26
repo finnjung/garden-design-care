@@ -356,8 +356,9 @@ section {
 
 .about-features {
     display: flex;
-    gap: 2rem;
+    gap: 1.5rem;
     margin-top: 2rem;
+    flex-wrap: wrap;
 }
 
 .feature {
@@ -375,6 +376,24 @@ section {
 
 .about-image {
     position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-portrait {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 50%;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+    border: 5px solid var(--white);
+    transition: var(--transition);
+}
+
+.about-portrait:hover {
+    transform: scale(1.02);
+    box-shadow: 0 25px 70px rgba(0, 0, 0, 0.2);
 }
 
 .image-placeholder {
@@ -682,6 +701,10 @@ section {
     .about-features {
         justify-content: center;
         flex-wrap: wrap;
+    }
+    
+    .about-portrait {
+        max-width: 280px;
     }
     
     .contact-content {
