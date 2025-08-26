@@ -111,16 +111,35 @@ h4 { font-size: 1.4rem; }
     padding: 0 20px;
 }
 
-.nav-brand h2 {
+.nav-brand {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.nav-logo {
+    width: 45px;
+    height: 45px;
+    object-fit: contain;
+}
+
+.nav-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-text h2 {
     font-size: 1.8rem;
     color: var(--primary-color);
     margin: 0;
+    line-height: 1.2;
 }
 
 .nav-tagline {
     font-size: 0.9rem;
     color: var(--text-light);
     font-style: italic;
+    line-height: 1;
 }
 
 .nav-menu {
