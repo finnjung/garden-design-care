@@ -53,21 +53,18 @@ navLinks.forEach(link => {
     });
 });
 
-// Smooth Scrolling for Navigation Links
-navLinks.forEach(link => {
-    link.addEventListener('click', (e) => {
+// Smooth Scrolling for all internal anchor links (nav + buttons)
+document.addEventListener('click', (e) => {
+    const link = e.target.closest('a[href^="#"]');
+    if (!link) return;
+    const targetId = link.getAttribute('href');
+    if (targetId === '#') return;
+    const targetSection = document.querySelector(targetId);
+    if (targetSection) {
         e.preventDefault();
-        const targetId = link.getAttribute('href');
-        const targetSection = document.querySelector(targetId);
-        
-        if (targetSection) {
-            const offsetTop = targetSection.offsetTop - 80; // Account for fixed navbar
-            window.scrollTo({
-                top: offsetTop,
-                behavior: 'smooth'
-            });
-        }
-    });
+        const offsetTop = targetSection.offsetTop - 80; // Account for fixed navbar
+        window.scrollTo({ top: offsetTop, behavior: 'smooth' });
+    }
 });
 
 // Update Active Navigation Link
@@ -104,21 +101,40 @@ if (contactForm) {
     contactForm.addEventListener('submit', handleFormSubmit);
 }
 
+// Lokale Entwicklungsumgebung erkennen
+const isLocalDev = ['localhost', '127.0.0.1', ''].includes(window.location.hostname);
+
 // Turnstile Callback Functions
 window.onTurnstileSuccess = function(token) {
-    console.log('Turnstile validation successful');
     const submitBtn = document.getElementById('submitBtn');
     submitBtn.disabled = false;
     submitBtn.style.opacity = '1';
 };
 
 window.onTurnstileError = function(error) {
-    console.error('Turnstile validation error:', error);
+    if (isLocalDev) {
+        // Lokal: Fehler ignorieren, Button trotzdem aktivieren
+        const submitBtn = document.getElementById('submitBtn');
+        submitBtn.disabled = false;
+        submitBtn.style.opacity = '1';
+        return;
+    }
     const submitBtn = document.getElementById('submitBtn');
     submitBtn.disabled = true;
     submitBtn.style.opacity = '0.6';
     showNotification('Spam-Schutz konnte nicht geladen werden. Bitte laden Sie die Seite neu.', 'error');
 };
+
+// Lokal: Submit-Button direkt aktivieren (Turnstile lädt nicht)
+if (isLocalDev) {
+    document.addEventListener('DOMContentLoaded', () => {
+        const submitBtn = document.getElementById('submitBtn');
+        if (submitBtn) {
+            submitBtn.disabled = false;
+            submitBtn.style.opacity = '1';
+        }
+    });
+}
 
 async function handleFormSubmit(e) {
     e.preventDefault();
