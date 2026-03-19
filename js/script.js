@@ -104,6 +104,22 @@ if (contactForm) {
     contactForm.addEventListener('submit', handleFormSubmit);
 }
 
+// Turnstile Callback Functions
+window.onTurnstileSuccess = function(token) {
+    console.log('Turnstile validation successful');
+    const submitBtn = document.getElementById('submitBtn');
+    submitBtn.disabled = false;
+    submitBtn.style.opacity = '1';
+};
+
+window.onTurnstileError = function(error) {
+    console.error('Turnstile validation error:', error);
+    const submitBtn = document.getElementById('submitBtn');
+    submitBtn.disabled = true;
+    submitBtn.style.opacity = '0.6';
+    showNotification('Spam-Schutz konnte nicht geladen werden. Bitte laden Sie die Seite neu.', 'error');
+};
+
 async function handleFormSubmit(e) {
     e.preventDefault();
     
@@ -120,6 +136,13 @@ async function handleFormSubmit(e) {
     const message = formData.get('message').trim();
     const service = formData.get('service');
     
+    // Check if Turnstile is completed
+    const turnstileToken = formData.get('cf-turnstile-response');
+    if (!turnstileToken) {
+        showNotification('Bitte bestätigen Sie zuerst den Spam-Schutz.', 'error');
+        return;
+    }
+
     // Basic validation
     if (!name || name.length < 2) {
         showNotification('Bitte geben Sie einen gültigen Namen ein.', 'error');
@@ -161,6 +184,15 @@ async function handleFormSubmit(e) {
         if (result.success) {
             showNotification(result.message, 'success');
             contactForm.reset();
+            
+            // Reset Turnstile widget after successful submission
+            if (window.turnstile) {
+                window.turnstile.reset();
+            }
+            
+            // Re-disable submit button until Turnstile is completed again
+            submitBtn.disabled = true;
+            submitBtn.style.opacity = '0.6';
             
             // Track successful form submission
             if (typeof gtag !== 'undefined') {
@@ -286,15 +318,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
-// Gallery Modal (Optional Enhancement)
-const galleryItems = document.querySelectorAll('.gallery-item');
-galleryItems.forEach(item => {
-    item.addEventListener('click', () => {
-        // In a real implementation, you would show a modal with the full image
-        const title = item.querySelector('.gallery-overlay h4').textContent;
-        showNotification(`Vollbild für "${title}" würde hier angezeigt werden.`, 'info');
-    });
-});
 
 // Parallax Effect for Hero Section
 window.addEventListener('scroll', () => {

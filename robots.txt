@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://gardendesignundcare.de/sitemap.xml
+
+# Disallow admin areas if any exist in future
+Disallow: /admin/
+Disallow: /private/
+
+# Allow important files
+Allow: /images/
+Allow: /css/
+Allow: /js/

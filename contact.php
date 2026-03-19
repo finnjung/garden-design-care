@@ -1,4 +1,12 @@
 <?php
+/**
+ * Kontaktformular mit Cloudflare Turnstile Spam-Schutz
+ * Garden Design und Care - Giovanni Rovere
+ */
+
+// Turnstile Verification einbinden
+require_once 'turnstile-verify.php';
+
 // Sicherheitseinstellungen
 header('Content-Type: application/json');
 header('X-Content-Type-Options: nosniff');
@@ -71,6 +79,15 @@ if (empty($message) || strlen($message) < 10) {
 // Spam-Schutz: Honeypot-Feld prüfen
 if (!empty($_POST['website'])) {
     $errors[] = 'Spam erkannt.';
+}
+
+// Cloudflare Turnstile Validierung
+$turnstileToken = isset($_POST['cf-turnstile-response']) ? $_POST['cf-turnstile-response'] : '';
+$clientIp = getClientIp();
+
+if (!verifyTurnstile($turnstileToken, $clientIp)) {
+    $errors[] = 'Spam-Schutz Validierung fehlgeschlagen. Bitte laden Sie die Seite neu und versuchen Sie es erneut.';
+    error_log('Turnstile validation failed for IP: ' . $clientIp);
 }
 
 // Rate Limiting (einfache Session-basierte Implementierung)
