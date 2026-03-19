@@ -1,5 +1,14 @@
 # 🚀 Deployment Guide - Giovanni Website
 
+## 🌐 URLs
+
+| Umgebung | URL | Server-Verzeichnis |
+|---|---|---|
+| Produktion (WordPress) | https://gardendesignundcare.de | `/` (Root) |
+| Vorschau (neue Website) | http://new.gardendesignundcare.de | `/new-website/` |
+
+> Neue Website immer nach `/new-website/` deployen — niemals ins Root-Verzeichnis!
+
 ## ✅ Was wurde eingerichtet
 
 1. **Ordner auf Server**: `/new-website/` wurde erfolgreich angelegt

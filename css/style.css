@@ -199,7 +199,6 @@ h4 { font-size: 1.4rem; }
                 url('../images/garten-gestaltung.webp');
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
     display: flex;
     align-items: center;
     justify-content: center;

@@ -129,7 +129,7 @@ echo "  Bilder:                 $img_count"
 echo "================================================"
 
 show_success "Website ist jetzt online unter:"
-echo "  🌐 https://gardendesignundcare.de/new-website/"
+echo "  🌐 http://new.gardendesignundcare.de"
 
 # Optional: Zeige letzte Änderungen
 echo ""

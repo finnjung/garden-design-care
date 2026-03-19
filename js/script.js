@@ -319,15 +319,6 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 
-// Parallax Effect for Hero Section
-window.addEventListener('scroll', () => {
-    const scrolled = window.pageYOffset;
-    const hero = document.querySelector('.hero');
-    if (hero) {
-        const rate = scrolled * -0.5;
-        hero.style.transform = `translateY(${rate}px)`;
-    }
-});
 
 // Lazy Loading for Background Images (if using real images)
 function lazyLoadImages() {
