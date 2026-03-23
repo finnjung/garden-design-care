@@ -114,7 +114,7 @@ echo "mkdir $REMOTE_DIR/images/galerie" | sshpass -p "$SFTP_PASS" sftp -P $SFTP_
 
 # Upload Galerie-Unterordner
 show_info "Upload Galerie-Bilder (160 Dateien)..."
-for file in images/galerie/*.{jpg,jpeg,webp,png,svg,json}; do
+for file in images/galerie/*.{webp,png,svg,json}; do
     if [ -f "$file" ]; then
         upload_file "$file" "$REMOTE_DIR/images/galerie/"
     fi
