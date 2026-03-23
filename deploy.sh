@@ -100,12 +100,19 @@ upload_file "css/style.css" "$REMOTE_DIR/css/"
 show_info "Upload JavaScript Dateien..."
 upload_file "js/script.js" "$REMOTE_DIR/js/"
 
-# Upload Bilder
+# Upload Bilder (Root)
 show_info "Upload Bilder..."
 for file in images/*.{svg,webp,jpg,jpeg,png,gif}; do
     if [ -f "$file" ]; then
-        filename=$(basename "$file")
         upload_file "$file" "$REMOTE_DIR/images/"
+    fi
+done
+
+# Upload Galerie-Unterordner
+show_info "Upload Galerie-Bilder..."
+for file in images/galerie/*.{jpg,jpeg,webp,png,svg,json}; do
+    if [ -f "$file" ]; then
+        upload_file "$file" "$REMOTE_DIR/images/galerie/"
     fi
 done
 
