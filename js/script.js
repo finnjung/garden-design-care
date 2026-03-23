@@ -26,30 +26,14 @@ window.addEventListener('scroll', () => {
 // Mobile Navigation Toggle
 hamburger.addEventListener('click', () => {
     navMenu.classList.toggle('active');
-    
-    // Animate hamburger
-    const spans = hamburger.querySelectorAll('span');
-    spans.forEach((span, index) => {
-        if (navMenu.classList.contains('active')) {
-            if (index === 0) span.style.transform = 'rotate(45deg) translate(5px, 5px)';
-            if (index === 1) span.style.opacity = '0';
-            if (index === 2) span.style.transform = 'rotate(-45deg) translate(7px, -6px)';
-        } else {
-            span.style.transform = 'none';
-            span.style.opacity = '1';
-        }
-    });
+    hamburger.classList.toggle('active');
 });
 
 // Close mobile menu when clicking nav links
 navLinks.forEach(link => {
     link.addEventListener('click', () => {
         navMenu.classList.remove('active');
-        const spans = hamburger.querySelectorAll('span');
-        spans.forEach(span => {
-            span.style.transform = 'none';
-            span.style.opacity = '1';
-        });
+        hamburger.classList.remove('active');
     });
 });
 
