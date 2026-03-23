@@ -1,5 +1,4 @@
-RewriteEngine On
-
-# HTTP → HTTPS Redirect
-RewriteCond %{HTTPS} off
-RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# HTTPS Redirect (aktivieren sobald SSL-Zertifikat eingerichtet ist)
+# RewriteEngine On
+# RewriteCond %{HTTPS} off
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
