@@ -85,6 +85,9 @@ upload_file "turnstile-verify.php" "$REMOTE_DIR/"
 show_info "Upload andere Dateien..."
 upload_file "robots.txt" "$REMOTE_DIR/"
 upload_file "sitemap.xml" "$REMOTE_DIR/"
+if [ -f ".htaccess" ]; then
+    upload_file ".htaccess" "$REMOTE_DIR/"
+fi
 if [ -f ".env" ]; then
     upload_file ".env" "$REMOTE_DIR/"
 fi
