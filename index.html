@@ -202,6 +202,12 @@
 
     <!-- Hero Section -->
     <section id="home" class="hero">
+        <div class="hero-slides" id="heroSlides">
+            <div class="hero-slide active" style="background-image: url('images/galerie/terrasse-044.jpg')"></div>
+            <div class="hero-slide" style="background-image: url('images/galerie/garten-026.jpg')"></div>
+            <div class="hero-slide" style="background-image: url('images/galerie/design-016.jpg')"></div>
+            <div class="hero-slide" style="background-image: url('images/galerie/garten-027.jpg')"></div>
+        </div>
         <div class="hero-overlay"></div>
         <div class="hero-content">
             <h1 class="hero-title">Exklusive Garten- & Landschaftsgestaltung</h1>
@@ -402,57 +408,87 @@
             </div>
             <div class="gallery-grid">
                 <div class="gallery-item">
-                    <img src="images/PoolGarten.webp" alt="Exklusive Pool-Landschaft mit Gartengestaltung von Giovanni Rovere Frankfurt" class="gallery-image">
-                    <div class="gallery-overlay">
-                        <h4>Pool-Landschaft</h4>
-                        <p>Wellness-Oase im Grünen</p>
-                    </div>
-                </div>
-                <div class="gallery-item">
-                    <img src="images/garten-gestaltung.webp" alt="Kreative Gartengestaltung und Landschaftsbau von Garden Design und Care" class="gallery-image">
+                    <img src="images/galerie/design-001.jpg" alt="Modern gestalteter Garten mit Holzterrasse, Pergola und Outdoor-Küche" class="gallery-image" loading="lazy">
                     <div class="gallery-overlay">
                         <h4>Gartengestaltung</h4>
-                        <p>Kreative Lösungen</p>
+                        <p>Terrasse, Pergola & Outdoor-Küche</p>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/terrasse-im-garten.webp" alt="Naturstein-Terrasse harmonisch in Gartenlandschaft integriert" class="gallery-image">
+                    <img src="images/galerie/design-008.jpg" alt="Modern gestalteter Garten mit Whirlpool-Anlage und Gabionenmauern" class="gallery-image" loading="lazy">
                     <div class="gallery-overlay">
-                        <h4>Garten-Terrasse</h4>
-                        <p>Naturstein & Pflanzen</p>
+                        <h4>Wellness-Oase</h4>
+                        <p>Whirlpool & Gartendesign</p>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/garten-beet-und-bank.webp" alt="Entspannungsbereich mit Sitzbank und professionell gestalteten Gartenbeeten" class="gallery-image">
+                    <img src="images/galerie/terrasse-025.jpg" alt="Modern gestalteter Garten mit Terrasse, Rasenfläche und Teich" class="gallery-image" loading="lazy">
                     <div class="gallery-overlay">
-                        <h4>Beet mit Sitzplatz</h4>
-                        <p>Entspannung im Grünen</p>
+                        <h4>Garten mit Teich</h4>
+                        <p>Terrasse & Wasserlandschaft</p>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/pflanzen-und-blumen-beet.webp" alt="Farbenfrohe Blumenbeete mit saisonalen Pflanzen und Bepflanzungskonzept" class="gallery-image">
+                    <img src="images/galerie/terrasse-046.jpg" alt="Gepflegter Terrassenbereich mit Sitzmöbeln, Pflanzen und Wasserbecken" class="gallery-image" loading="lazy">
+                    <div class="gallery-overlay">
+                        <h4>Terrasse & Lounge</h4>
+                        <p>Entspannung im Freien</p>
+                    </div>
+                </div>
+                <div class="gallery-item">
+                    <img src="images/galerie/terrasse-023.jpg" alt="Prächtig gestaltetes Blumenbeet mit Tulpen, Nelken und Frühlingsblumen auf der Terrasse" class="gallery-image" loading="lazy">
+                    <div class="gallery-overlay">
+                        <h4>Frühjahrs-Bepflanzung</h4>
+                        <p>Tulpen, Nelken & Hyazinthen</p>
+                    </div>
+                </div>
+                <div class="gallery-item">
+                    <img src="images/galerie/pflanzen-002.jpg" alt="Farbenfrohes Blumenbeet mit Tulpen, Veilchen und Hyazinthen" class="gallery-image" loading="lazy">
                     <div class="gallery-overlay">
                         <h4>Blumen & Pflanzen</h4>
                         <p>Farbenfrohe Beete</p>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/brunnen.webp" alt="Eleganter Gartenbrunnen als Wasserspiel in der Gartenanlage" class="gallery-image">
+                    <img src="images/galerie/garten-007.jpg" alt="Prächtig gestaltetes Blumenbeet mit Frühjahrsblumen und Tulpen" class="gallery-image" loading="lazy">
                     <div class="gallery-overlay">
-                        <h4>Wasserspiel</h4>
-                        <p>Brunnen im Garten</p>
+                        <h4>Gartenbeete</h4>
+                        <p>Saisonale Bepflanzung</p>
                     </div>
                 </div>
-                <div class="gallery-item">
-                    <img src="images/pflastersteine.webp" alt="Professionelle Pflasterarbeiten für Gartenwege und Einfahrten" class="gallery-image">
-                    <div class="gallery-overlay">
-                        <h4>Pflasterarbeiten</h4>
-                        <p>Professionelle Verlegung</p>
-                    </div>
+            </div>
+
+            <!-- Fotogalerie -->
+            <div class="fotogalerie">
+                <div class="section-header fotogalerie-header">
+                    <h3>Fotogalerie</h3>
+                    <p>Eindrücke aus unserer Arbeit — über 150 Fotos aus echten Projekten</p>
+                </div>
+                <div class="foto-filter">
+                    <button class="foto-filter-btn active" data-kat="alle">Alle</button>
+                    <button class="foto-filter-btn" data-kat="Gartengestaltung &amp; Design">Gartendesign</button>
+                    <button class="foto-filter-btn" data-kat="Terrasse &amp; Außenbereich">Terrasse</button>
+                    <button class="foto-filter-btn" data-kat="Garten &amp; Rasen">Garten & Rasen</button>
+                    <button class="foto-filter-btn" data-kat="Pflanzen &amp; Blumen">Pflanzen</button>
+                </div>
+                <div class="foto-grid" id="fotoGrid"></div>
+                <div class="foto-mehr-wrapper">
+                    <button class="btn btn-secondary" id="fotoMehrBtn">Mehr anzeigen</button>
                 </div>
             </div>
         </div>
     </section>
+
+    <!-- Lightbox -->
+    <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Bildvorschau">
+        <button class="lightbox-close" id="lightboxClose" aria-label="Schließen">&times;</button>
+        <button class="lightbox-prev" id="lightboxPrev" aria-label="Vorheriges Bild">&#8249;</button>
+        <button class="lightbox-next" id="lightboxNext" aria-label="Nächstes Bild">&#8250;</button>
+        <div class="lightbox-inner">
+            <img class="lightbox-img" id="lightboxImg" src="" alt="">
+            <p class="lightbox-desc" id="lightboxDesc"></p>
+        </div>
+    </div>
 
     <!-- Cane-Line Section -->
     <section id="cane-line" class="cane-line-section">
