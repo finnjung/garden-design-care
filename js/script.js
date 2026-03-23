@@ -85,8 +85,8 @@ if (contactForm) {
     contactForm.addEventListener('submit', handleFormSubmit);
 }
 
-// Lokale Entwicklungsumgebung erkennen
-const isLocalDev = ['localhost', '127.0.0.1', ''].includes(window.location.hostname);
+// Lokale Entwicklungsumgebung oder HTTP (kein SSL) erkennen
+const isLocalDev = ['localhost', '127.0.0.1', ''].includes(window.location.hostname) || window.location.protocol === 'http:';
 
 // Turnstile Callback Functions
 window.onTurnstileSuccess = function(token) {
@@ -109,7 +109,7 @@ window.onTurnstileError = function(error) {
     showNotification('Spam-Schutz konnte nicht geladen werden. Bitte laden Sie die Seite neu.', 'error');
 };
 
-// Lokal: Submit-Button direkt aktivieren (Turnstile lädt nicht)
+// Lokal / HTTP: Submit-Button direkt aktivieren, Turnstile ausblenden
 if (isLocalDev) {
     document.addEventListener('DOMContentLoaded', () => {
         const submitBtn = document.getElementById('submitBtn');
@@ -117,6 +117,8 @@ if (isLocalDev) {
             submitBtn.disabled = false;
             submitBtn.style.opacity = '1';
         }
+        const securityCheck = document.querySelector('.security-check');
+        if (securityCheck) securityCheck.style.display = 'none';
     });
 }
 
@@ -136,9 +138,9 @@ async function handleFormSubmit(e) {
     const message = formData.get('message').trim();
     const service = formData.get('service');
     
-    // Check if Turnstile is completed
+    // Check if Turnstile is completed (nur auf HTTPS)
     const turnstileToken = formData.get('cf-turnstile-response');
-    if (!turnstileToken) {
+    if (!turnstileToken && !isLocalDev) {
         showNotification('Bitte bestätigen Sie zuerst den Spam-Schutz.', 'error');
         return;
     }
