@@ -102,7 +102,7 @@ upload_file "js/script.js" "$REMOTE_DIR/js/"
 
 # Upload Bilder (Root)
 show_info "Upload Bilder..."
-for file in images/*.{svg,webp,jpg,jpeg,png,gif}; do
+for file in images/*.{svg,webp,jpg,jpeg,png,gif,JPG}; do
     if [ -f "$file" ]; then
         upload_file "$file" "$REMOTE_DIR/images/"
     fi
