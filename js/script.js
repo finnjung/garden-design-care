@@ -85,8 +85,11 @@ if (contactForm) {
     contactForm.addEventListener('submit', handleFormSubmit);
 }
 
-// Lokale Entwicklungsumgebung oder HTTP (kein SSL) erkennen
-const isLocalDev = ['localhost', '127.0.0.1', ''].includes(window.location.hostname) || window.location.protocol === 'http:';
+// Preview-Modus: lokal, HTTP, oder nicht die Produktions-Domain
+const productionHosts = ['gardendesignundcare.de', 'www.gardendesignundcare.de'];
+const isLocalDev = ['localhost', '127.0.0.1', ''].includes(window.location.hostname)
+    || window.location.protocol === 'http:'
+    || !productionHosts.includes(window.location.hostname);
 
 // Turnstile Callback Functions
 window.onTurnstileSuccess = function(token) {
