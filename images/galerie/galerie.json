@@ -1,0 +1,956 @@
+[
+  {
+    "datei": "design-001.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.12 (1).jpeg",
+    "kategorie": "Gartengestaltung & Design",
+    "beschreibung": "Ein modern gestalteter Garten mit einer Holzterrasse, einer Pergola, einem Outdoor-Küchebereich und einem Sitzbereich mit Sofas. Das Bild zeigt eine ansprechende und professionell wirkende Gartengestaltung."
+  },
+  {
+    "datei": "design-002.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.12 (2).jpeg",
+    "kategorie": "Gartengestaltung & Design",
+    "beschreibung": "Ein gepflegter Garten mit einer zentralen Pflanze, die von weißblühenden Hortensien umgeben ist. Die Hecken sind präzise geschnitten und der Boden ist mit Rasen bedeckt."
+  },
+  {
+    "datei": "terrasse-001.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.12 (3).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein Mann steht auf einem Balkon und pflanzt Bambus. Im Hintergrund ist eine städtische Skyline mit Hochhäusern und grünen Bäumen zu sehen."
+  },
+  {
+    "datei": "garten-001.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.12 (4).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Garten mit einer langen Blumenkübelreihe, die farbenfrohe Blumen und Pflanzen enthält. Im Hintergrund ist eine Terrasse mit einem Tisch und Stühlen zu sehen, sowie ein Rasenbereich und ein gepflegter Baum."
+  },
+  {
+    "datei": "pflanzen-001.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.12.jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Ein Bienenbesuch auf blauen Blüten in einem Garten. Die Blüten sind lebhaft und die Biene ist detailreich dargestellt."
+  },
+  {
+    "datei": "garten-002.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.13 (1).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Garten mit künstlichem Rasen, Blumenkübeln und einer Rasenmähmaschine im Hintergrund."
+  },
+  {
+    "datei": "terrasse-002.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.13 (10).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein gepflegter Innenhof mit einem Laterne, einer Metallgittertür und einer Mauer mit Pflanzen. Das Ambiente wirkt ruhig und gepflegt."
+  },
+  {
+    "datei": "pflanzen-002.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.13 (5).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Ein farbenfrohes Blumenbeet mit Tulpen, Nelken, Veilchen und Hyazinthen, das eine fröhliche und gepflegte Erscheinung vermittelt."
+  },
+  {
+    "datei": "terrasse-003.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.13 (6).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein gepflegter Terrassenbereich mit Holzboden, Pflanzen in Topf und einem Rasenstück im Hintergrund. Ein kleiner Baum steht im Vordergrund, umgeben von Blumenbeeten und Sträuchern."
+  },
+  {
+    "datei": "terrasse-004.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.13 (8).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein gepflegter Gartenweg mit einem alten, dekorativen Laternenpfahl und einem Fahrradständer. Im Hintergrund sind gepflegte Hecken und Mülltonnen zu sehen."
+  },
+  {
+    "datei": "terrasse-005.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.13 (9).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein gepflegter Gartenbereich mit einem alten Laternenpfahl, einem Metalltor und einer gepflegten Hecke. Im Hintergrund sind Gebäude zu sehen."
+  },
+  {
+    "datei": "garten-003.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.14 (2).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Gartenbereich mit einem alten, dekorativen Straßenlaternturm und einem gepflegten Heckenzaun. Im Hintergrund sind Gebäude und Bäume zu sehen."
+  },
+  {
+    "datei": "terrasse-006.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.14 (3).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein historischer Straßenlaterne steht vor einem Gebäude mit klassischer Fassade. Die Szene wirkt gepflegt und städtisch."
+  },
+  {
+    "datei": "terrasse-007.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.14.jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein gepflasterter Außenbereich mit einem Fahrradständer und einer Reihe von dunklen Containerboxen im Hintergrund. Links ist ein Teil eines Laternenpfahls zu sehen."
+  },
+  {
+    "datei": "terrasse-008.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.15 (1).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein Baustellenbild mit zwei Fahrradständern, die in Bodenlöchern eingelassen werden. Um die Ständer herum liegen unregelmäßig gestapelte Pflastersteine."
+  },
+  {
+    "datei": "design-003.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.15.jpeg",
+    "kategorie": "Gartengestaltung & Design",
+    "beschreibung": "Ein Mercedes-Benz Sprinter mit der Aufschrift 'Garden Design & Care' und der Kontaktdaten für den Garten- und Landschaftspflegebetrieb Giovanni Rovere. Das Fahrzeug ist mit einem Jubiläumsabzeichen für 25 Jahre Betrieb versehen."
+  },
+  {
+    "datei": "design-004.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.16 (1).jpeg",
+    "kategorie": "Gartengestaltung & Design",
+    "beschreibung": "Ein modern gestalteter Gartenbereich mit einer Mischung aus Steinen, Pflanzen und einer Terrasse. Die Wand ist weiß gestrichen und mit einer Steinverkleidung versehen, während die Pflanzen ein farbenfrohes Element bieten."
+  },
+  {
+    "datei": "terrasse-009.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.16 (2).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein Blick auf einen gepflegten Gartenbereich mit Rasenfläche, Bäumen und einem Terrassenbereich. Die Struktur zeigt moderne Elemente wie eine Terrassenüberdachung und eine weiße Mauer."
+  },
+  {
+    "datei": "terrasse-010.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.16.jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein modern gestalteter Eingangsbereich mit Pflanzen, Steinen und einer Terrasse. Die Architektur kombiniert weiße Wände mit Natursteinverkleidungen und grünen Pflanzen."
+  },
+  {
+    "datei": "garten-004.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.17 (3).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein Ausschnitt eines Gartens mit neu angelegtem Rasen und einem Rand aus Kieseln, der die Grenze zum Haus markiert."
+  },
+  {
+    "datei": "terrasse-011.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.17 (4).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein Eingangsbereich mit Ziegelpflasterstufen und einer Tür mit Glasfenstern. Die Stufen sind mit einem Metallstreifen abgesteckt, was auf eine Maßnahme zur Sicherheit oder Pflege hinweist."
+  },
+  {
+    "datei": "terrasse-012.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.17 (5).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein Wohngebäude mit Terrasse und einem Müllcontainer im Vordergrund. Die Umgebung wirkt gepflegt, aber der Boden ist uneben und bedeckt mit Blättern und Schmutz."
+  },
+  {
+    "datei": "design-005.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.18 (1).jpeg",
+    "kategorie": "Gartengestaltung & Design",
+    "beschreibung": "Ein gepflegter Gartenweg mit Mulch und Hecken ist im Vordergrund zu sehen. Im Hintergrund befindet sich ein Haus mit einem Zaun und weiteren Bäumen."
+  },
+  {
+    "datei": "pflanzen-003.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.18 (2).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Ein Bienenbesuch auf einer Blüte einer Weißdornpflanze mit farblich abgestuften Blüten und grünen Blättern. Im Hintergrund sind Metallpfosten und weitere Pflanzen zu sehen."
+  },
+  {
+    "datei": "terrasse-013.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.18 (3).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein Bild einer Terrasse mit einer neu gestrichenen Treppe und einem eleganten Geländer. Im Hintergrund ist ein großes Fenster mit Blick auf einen Innenraum, der mit Kunstwerken und Möbeln dekoriert ist."
+  },
+  {
+    "datei": "garten-005.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.18 (4).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Gartenweg mit rosa Hortensien und Gräsern, die entlang einer weißen Mauer mit schwarzen Beleuchtungselementen wachsen."
+  },
+  {
+    "datei": "design-006.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.18 (5).jpeg",
+    "kategorie": "Gartengestaltung & Design",
+    "beschreibung": "Ein gepflegter Gartenweg mit einer Mauer aus weißem Putz und Stein, flankiert von rosa Hortensien und grünen Gräsern. Die Szene wirkt ruhig und gepflegt."
+  },
+  {
+    "datei": "terrasse-014.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.18 (6).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein Mitarbeiter eines Garten- und Landschaftspflegebetriebs arbeitet an der Renovierung einer Steintreppe. Er trägt Schutzausrüstung und verwendet Werkzeuge, um Schäden zu beseitigen und die Treppe zu reparieren."
+  },
+  {
+    "datei": "terrasse-015.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.18 (7).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein gepflasterter Außenbereich mit einer Wand und einem Gittertor im Hintergrund. Ein Gartenschlauch hängt an der Wand."
+  },
+  {
+    "datei": "terrasse-016.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.18 (8).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein neuer Pflasterweg wird gerade verlegt, mit einem Muster aus quadratischen Steinen und einer Randverzierung aus runden Steinen. Im Hintergrund ist ein Haus mit Garage und einem Zaun zu sehen."
+  },
+  {
+    "datei": "terrasse-017.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.18 (9).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein Holzsteg mit Pflanzen und Blumen am Rand, Schuhe und eine Wasserflasche auf den Stufen, im Hintergrund ein Fenster mit einem Hund und einem Tisch mit Stühlen."
+  },
+  {
+    "datei": "terrasse-018.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.18.jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein Eingangsbereich mit einer weißen Tür, einer Briefkastenanlage und einer Treppe aus Holz. Die Umgebung wirkt sauber und gepflegt."
+  },
+  {
+    "datei": "garten-006.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.20 (1).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Garten mit Rasenfläche, Blumenbeeten und einer Zierpflanze im Zentrum. Die Terrasse im Vordergrund zeigt eine Sitzgruppe und Pflanzenkästen."
+  },
+  {
+    "datei": "terrasse-019.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.20 (10).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein Garten mit einer neu errichteten Sichtschutzmauer aus Holz und gelben Streifen. Eine Person arbeitet im Hintergrund an weiteren Bauarbeiten."
+  },
+  {
+    "datei": "terrasse-020.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.20 (11).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein Mann installiert eine gelbe Sichtschutzblende an einer Hauswand. Er trägt Handschuhe und arbeitet sorgfältig an der Montage."
+  },
+  {
+    "datei": "design-007.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.20 (12).jpeg",
+    "kategorie": "Gartengestaltung & Design",
+    "beschreibung": "Ein neuer Zaun mit gelben Streifen und weißem Rahmen wird aufgestellt. Im Hintergrund sind Bäume und ein bewölkter Himmel zu sehen."
+  },
+  {
+    "datei": "pflanzen-004.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.20 (2).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Ein farbenfrohes Blumenbeet mit Tulpen, Nelken und Hyazinthen in einem gepflegten Garten."
+  },
+  {
+    "datei": "garten-007.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.20 (3).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein prächtig gestalteter Blumenbeet mit einer Vielzahl von Frühjahrsblumen wie Tulpen, Hyazinthen und Narzissen ist auf einem Holzboden platziert. Im Hintergrund sind ein Gartentisch mit einer Plane und ein Rasen zu sehen."
+  },
+  {
+    "datei": "terrasse-021.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.20 (4).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein farbenfrohes Blumenbeet mit Tulpen, Narzissen und anderen Frühlingsblumen auf einer Terrasse mit Holzboden und Rasen im Hintergrund."
+  },
+  {
+    "datei": "terrasse-022.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.20 (5).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein Mann reinigt eine gepflasterte Terrasse mit einem Hochdruckreiniger. Im Hintergrund sind ein Haus und gepflegte Pflanzen zu sehen."
+  },
+  {
+    "datei": "garten-008.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.20 (6).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Garten mit künstlichem Rasen, Holzterrasse und Pflanzenbeeten, die mit Blumen dekoriert sind. Im Hintergrund sind Bäume und Häuser sichtbar."
+  },
+  {
+    "datei": "terrasse-023.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.20 (7).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein prächtig gestalteter Blumenbeet mit einer Vielzahl von Frühlingsblumen, darunter Tulpen, Nelken und andere farbenfrohe Pflanzen, ist auf einer Terrasse platziert."
+  },
+  {
+    "datei": "garten-009.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.20 (8).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Gartenweg mit künstlichem Rasen führt durch einen schmalen, von einem dunklen Zaun umgebenen Bereich. Links befindet sich ein Haus mit Fenstern und einer Terrasse."
+  },
+  {
+    "datei": "garten-010.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.20 (9).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein Garten mit vielen Mäusespuren auf dem Rasen, einer Mauer, einem Spielplatz und einem Fußballtor im Hintergrund."
+  },
+  {
+    "datei": "garten-011.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.20.jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Garten mit grünem Rasen, einer Blütenpflanze im Zentrum, einer Holzterrasse und mehreren Blumentöpfen. Die Umgebung ist von Bäumen und Hecken umgeben."
+  },
+  {
+    "datei": "pflanzen-005.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.21 (1).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Ein lila Clematis-Blüte mit einem grünen Heuschrecken darauf ist im Vordergrund zu sehen. Im Hintergrund sind weitere Blüten und Blätter sichtbar."
+  },
+  {
+    "datei": "garten-012.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.21 (10).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein neu installierter, rechteckiger Pool mit klarem Wasser steht in einem Garten mit frischem Boden und Pflanzen im Hintergrund."
+  },
+  {
+    "datei": "terrasse-024.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.21 (11).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein gepflegter Garten mit Terrasse, Rasen und Terrassenmöbeln. Im Hintergrund sind Häuser und Bäume zu sehen."
+  },
+  {
+    "datei": "terrasse-025.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.21 (12).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein modern gestalteter Garten mit einer Terrasse, Rasenfläche und einem Teich im Hintergrund. Die Anlage wirkt gepflegt und ist für eine professionelle Präsentation geeignet."
+  },
+  {
+    "datei": "terrasse-026.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.21 (13).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein modern gestalteter Garten mit Rasenfläche, Terrasse und einem Skatepark im Hintergrund. Die Anlage wirkt gepflegt und ist für eine professionelle Präsentation geeignet."
+  },
+  {
+    "datei": "garten-013.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.21 (14).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein neu angelegter Rasenbereich mit einer Steinmauer und einer Terrasse. Der Rasen ist frisch geschnitten und die Steinmauer ist sauber und gut eingefasst."
+  },
+  {
+    "datei": "garten-014.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.21 (15).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein modern gestalteter Garten mit künstlichem Rasen, einer Terrasse und einem Whirlpool. Die Anordnung wirkt gepflegt und stilvoll."
+  },
+  {
+    "datei": "garten-015.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.21 (16).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Rasen mit sichtbaren Mäharichtungen und einer gut gepflegten Hecke im Hintergrund. Das Bild zeigt einen Teil eines Gartens mit einem modernen Design."
+  },
+  {
+    "datei": "terrasse-027.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.21 (2).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein Blick auf eine Terrasse mit einem Betonbelag, umgeben von grünen Hecken und einem Gebäude im Hintergrund. Die Terrasse zeigt Spuren von Verwitterung und Pflegebedarf."
+  },
+  {
+    "datei": "terrasse-028.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.21 (3).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein gepflegter Garten mit Rasen, Terrasse und moderner Architektur. Ein Terrassengeländer aus Holz und Gabionen ist sichtbar, sowie zwei Fahrräder auf der Terrasse."
+  },
+  {
+    "datei": "garten-016.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.21 (4).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Rasenbereich mit bepflanzten Beeten und einer Terrasse im Hintergrund. Das Bild zeigt eine moderne und gepflegte Gartenlandschaft."
+  },
+  {
+    "datei": "design-008.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.21 (6).jpeg",
+    "kategorie": "Gartengestaltung & Design",
+    "beschreibung": "Ein modern gestalteter Garten mit Holz- und Gabionenmauern, einer Whirlpool-Anlage und gepflegten Pflanzen."
+  },
+  {
+    "datei": "garten-017.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.21 (7).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Garten mit Rasen, Terrasse aus Holz und einer modernen Bebauung im Hintergrund. Das Bild zeigt eine ansprechende und professionell wirkende Landschaft."
+  },
+  {
+    "datei": "garten-018.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.21 (8).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Garten mit Rasen, Terrasse und Pflanzen vor einem modernen Haus unter einem bewölkten Himmel."
+  },
+  {
+    "datei": "garten-019.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.21 (9).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein neu installierter, quadratischer Pool mit weißer Umrandung steht in einem Garten mit frischem Gras und gepflegten Hecken. Im Hintergrund sind Häuser und Bäume sichtbar."
+  },
+  {
+    "datei": "pflanzen-006.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.21.jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Ein grüner Heuschrecke sitzt auf einer violett-blauen Clematisblüte mit gelben Staubblättern. Das Bild zeigt eine natürliche und lebendige Szene."
+  },
+  {
+    "datei": "garten-020.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.22 (1).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Rasen mit streifenförmiger Musterung und einer weißen Mauer im Hintergrund. Bäume und Hecken grenzen den Garten ab."
+  },
+  {
+    "datei": "terrasse-029.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.22 (10).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein Mann arbeitet an einer Baugrube für eine neue Terrasse oder einen Gartenbau. Die Grube ist gerade ausgehoben und der Boden ist noch nicht verfüllt oder gestaltet."
+  },
+  {
+    "datei": "pflanzen-007.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.22 (11).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt eine Nahaufnahme von frischen Tulpen und Narzissen in einem Garten. Die Blumen sind in verschiedenen Farben wie Rosa, Weiß und Orange gehalten und scheinen frisch und gepflegt zu sein."
+  },
+  {
+    "datei": "pflanzen-008.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.22 (12).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt eine Nahaufnahme von Tulpen in verschiedenen Farben, darunter rosa und weiß, mit Wassertröpfchen darauf. Die Tulpen sind frisch und die Blätter grün, was auf eine gepflegte Gartenanlage hindeutet."
+  },
+  {
+    "datei": "pflanzen-009.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.22 (13).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt eine Nahaufnahme von frischen Tulpen und Narzissen, die mit Regentropfen bedeckt sind, was auf frische und gepflegte Pflanzen hindeutet."
+  },
+  {
+    "datei": "pflanzen-010.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.22 (14).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt eine frische Blumenanordnung mit rosa Tulpen und einer weißen Narzisse, die mit Regentropfen bedeckt sind. Die Pflanzen sind in einem Gartenbeet gepflanzt, das gepflegt und ordentlich aussieht."
+  },
+  {
+    "datei": "pflanzen-011.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.22 (15).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt eine Nahaufnahme von rosa Hyazinthen und Tulpenblüten in einem Garten. Die Blüten sind frisch und die Blätter glänzen feucht, was auf eine frische Pflanzung oder Pflege hindeutet."
+  },
+  {
+    "datei": "garten-021.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.22 (3).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Rasen mit scharfen Streifen, der von einer weißen Mauer und Bäumen umgeben ist. Der Himmel ist blau mit einigen Wolken."
+  },
+  {
+    "datei": "terrasse-030.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.22 (4).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein modern gestalteter Dachterrasengarten mit Rasenfläche, Pflanzkübeln und einer Terrasse mit Sitzmöbeln. Im Hintergrund sind Bäume und Nachbarhäuser zu sehen."
+  },
+  {
+    "datei": "garten-022.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.22 (5).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Garten mit künstlichem Rasen, einer Terrasse mit Glasfront und einer Holzverbauung im Hintergrund."
+  },
+  {
+    "datei": "garten-023.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.22 (6).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Rasen mit sorgfältig gestreiftem Muster, umgeben von grünen Hecken und einem Gebäude im Hintergrund."
+  },
+  {
+    "datei": "garten-024.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.22 (7).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein großes, schwarzes Container-ähnliches Gerät wird von einem Kran gehoben, was auf eine Installation oder den Transport im Garten- und Landschaftsbereich hinweist."
+  },
+  {
+    "datei": "terrasse-031.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.22 (9).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein Bauprojekt für eine Betonwanne in einem Garten mit Werkzeugen und Materialien im Hintergrund."
+  },
+  {
+    "datei": "garten-025.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.32.22.jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Garten mit Rasen, Beeten und Pflanzen, umgeben von einem Haus und Bäumen. Der Himmel ist blau mit einigen Wolken."
+  },
+  {
+    "datei": "terrasse-032.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.50 (1).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein gepflegter Gartenweg mit Steinplatten, umgeben von gepflegten Hecken und Büschen. Rechts ist ein modernes Gebäude mit Rollladen zu sehen."
+  },
+  {
+    "datei": "terrasse-033.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.50 (2).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein modern gestalteter Gartenweg mit einer Kombination aus Steinplatten und Holzplanken, flankiert von einer hohen Hecke und einer Glaswand."
+  },
+  {
+    "datei": "design-009.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.50 (3).jpeg",
+    "kategorie": "Gartengestaltung & Design",
+    "beschreibung": "Ein gepflegter Garten mit einer Steinpyramide im Vordergrund, umgeben von gepflegten Hecken und Büschen. Im Hintergrund sind Gebäude und ein Zaun zu sehen."
+  },
+  {
+    "datei": "design-010.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.50 (4).jpeg",
+    "kategorie": "Gartengestaltung & Design",
+    "beschreibung": "Ein modern gestalteter Garten mit einem Steinbeet, einer Kiesfläche und gepflegten Hecken. Ein kleiner Brunnen ist im Zentrum des Steinbeetes platziert."
+  },
+  {
+    "datei": "design-011.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.50 (5).jpeg",
+    "kategorie": "Gartengestaltung & Design",
+    "beschreibung": "Ein gepflegter Garten mit einer Kombination aus Sträuchern, Topiarien und einem Steinkreis, der von einem Kettenzug gehalten wird."
+  },
+  {
+    "datei": "garten-026.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.50 (6).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein Garten mit prächtigen lila Hortensien im Vordergrund und einer gepflegten Hecke aus Zypressen im Hintergrund. Ein Mitarbeiter mit Gartengerät ist dabei, den Rasen zu mähen."
+  },
+  {
+    "datei": "terrasse-034.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.50.jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein elegantes Terrassen-Set mit Holztisch und weißen Stühlen steht inmitten eines gepflegten Gartens mit Hecken und Bäumen."
+  },
+  {
+    "datei": "terrasse-035.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.51 (1).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein Blick auf einen Garten mit einer Terrasse, einer Pergola und einer Steinmauer im Vordergrund. Das Bild zeigt eine gepflegte Umgebung mit einem Baum und einigen Pflanzen."
+  },
+  {
+    "datei": "pflanzen-012.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.51 (11).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Ein prächtiger Blumenbeet mit einer zentralen weißen Blume, umgeben von lila und violetten Blüten, die von grünen Hecken und Bäumen im Hintergrund begrenzt werden."
+  },
+  {
+    "datei": "garten-027.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.51 (12).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein prächtiger Blumenbeet mit lila und weißen Blüten, umgeben von grünen Hecken und Bäumen. Die Pflanzen sind gut gepflegt und der Garten wirkt gepflegt und einladend."
+  },
+  {
+    "datei": "garten-028.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.51 (15).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein sonniger Garten mit einer Vielzahl von Blumen, darunter Alliums und Iris, die in einem Beet angepflanzt sind. Im Hintergrund sind Bäume und Sträucher zu sehen."
+  },
+  {
+    "datei": "terrasse-036.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.51 (2).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein gepflegter Garten mit einer Steinmauer, einem Baum, einem Holztisch und Stühlen auf einer Terrasse. Im Hintergrund ist ein Haus mit einer Terrassenüberdachung zu sehen."
+  },
+  {
+    "datei": "terrasse-037.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.51 (3).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein unvollständiges Treppenstufenprojekt aus Steinblöcken, das noch nicht befestigt ist. Die Umgebung ist mit frischer Erde bedeckt, was darauf hindeutet, dass es sich um eine aktuelle Baustelle handelt."
+  },
+  {
+    "datei": "pflanzen-013.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.51 (4).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt eine Vielzahl von blühenden Pflanzen mit lila und violetten Blüten, die in einem Garten oder einer Pflanzung angepflanzt sind. Die Blüten sind in verschiedenen Stadien der Blüte, von knospenartig bis vollständig geöffnet, was auf eine gesunde und gepflegte Pflanzung hinweist."
+  },
+  {
+    "datei": "garten-029.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.51 (5).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gut gepflegter Gemüsegarten mit sortenreicher Auswahl an Salat- und Blattgemüsepflanzen. Die Pflanzen sind ordentlich angeordnet und von einer Holzleiste abgegrenzt."
+  },
+  {
+    "datei": "garten-030.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.51 (6).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gut gepflegter Gemüsegarten mit verschiedenen Salatarten, Blattkohl und Blattkohlkraut. Die Pflanzen sind ordentlich angeordnet und von einer Mulchschicht umgeben."
+  },
+  {
+    "datei": "garten-031.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.51 (7).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Das Bild zeigt einen gut gepflegten Gemüsegarten in einem Gewächshaus mit verschiedenen Salatarten und Blattgemüse. Die Pflanzen sind ordentlich angeordnet und die Umgebung wirkt sauber und gepflegt."
+  },
+  {
+    "datei": "pflanzen-014.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.51 (8).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Ein farbenfrohes Blumenbeet mit verschiedenen Pflanzen, darunter Hosta, Astilbe und Teppichblumen, vor einem modernen Hintergrund."
+  },
+  {
+    "datei": "pflanzen-015.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.51 (9).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Ein farbenfrohes Blumenbeet mit verschiedenen Blumenarten wie Lupinen, Fuchsien und Astilben, das gut gepflegt und vielseitig gestaltet ist."
+  },
+  {
+    "datei": "garten-032.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.51.jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Garten mit prächtigen lila Hortensien im Vordergrund und einer Reihe von dicht stehenden, sorgfältig geschnittenen Hecken im Hintergrund. Zwei Personen sind dabei, den Rasen zu mähen."
+  },
+  {
+    "datei": "pflanzen-016.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.52 (1).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Ein prächtiger Blumenbeet mit einer Mischung aus lila und weißen Blüten, umgeben von grünen Blättern und hohen Sträuchern im Hintergrund."
+  },
+  {
+    "datei": "pflanzen-017.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.52 (10).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt eine Vielzahl von Tulpen in verschiedenen Farben, darunter Lila, Rosa und Weiß, die in einem Garten gepflanzt sind. Im Hintergrund sind gepflegte Hecken und Bäume zu sehen."
+  },
+  {
+    "datei": "pflanzen-018.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.52 (12).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt eine Blumenanordnung mit Tulpen in verschiedenen Farben, darunter Weiß und Dunkelrot, vor einem Hintergrund mit einem Hund und einer Terrasse."
+  },
+  {
+    "datei": "pflanzen-019.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.52 (13).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt eine Gruppe von Tulpen in verschiedenen Farben, darunter Weiß und Rot, vor einem Haus mit einer Tür im Hintergrund. Die Tulpen sind frisch und gut gepflegt, was auf eine professionelle Gartenpflege hindeutet."
+  },
+  {
+    "datei": "pflanzen-020.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.52 (14).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Ein Bild von einer gepflegten Tulpenanpflanzung vor einem Haus mit Treppe und Fenster im Hintergrund."
+  },
+  {
+    "datei": "terrasse-038.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.52 (15).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein modernes Haus mit einer Terrasse, die von einer transparenten Überdachung geschützt wird. Blühende Bäume und gepflegte Pflanzen umgeben den Bereich, was auf eine sorgfältige Gartenpflege hinweist."
+  },
+  {
+    "datei": "pflanzen-021.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.52 (2).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Ein Blumenbeet mit lila und weiß blühenden Allium-Arten, umgeben von grünen Blättern und anderen Pflanzen. Das Bild zeigt eine frische und gepflegte Gartenlandschaft."
+  },
+  {
+    "datei": "pflanzen-022.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.52 (3).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Ein prächtiger Blumenbeet mit lila und weiß blühenden Alliums und anderen Blumen, die in einem sonnigen Garten wachsen."
+  },
+  {
+    "datei": "pflanzen-023.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.52 (4).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt eine Blumenbeet mit einer Vielzahl von Blumen, hauptsächlich Alliums, in Weiß und Lila. Die Pflanzen sind gut gepflegt und das Bild ist klar und farbenfroh."
+  },
+  {
+    "datei": "pflanzen-024.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.52 (5).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Ein prächtiger Blumenbeet mit Irisen und Zierlauch in einem gepflegten Garten mit Blick auf ein Haus im Hintergrund."
+  },
+  {
+    "datei": "garten-033.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.52 (7).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Garten mit grüner Rasenfläche, einer ordentlichen Hecke und einer Blumenbeet-Einfassung aus Boxenhecken. Im Hintergrund sind Terrassen und weitere Pflanzen zu sehen."
+  },
+  {
+    "datei": "terrasse-039.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.52 (8).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein Blumenkübel mit Tulpen in verschiedenen Farben, darunter Weiß, Lila und Dunkelrot, steht auf einer Terrasse. Im Hintergrund sind Treppen und ein Zaun zu sehen."
+  },
+  {
+    "datei": "design-012.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.52 (9).jpeg",
+    "kategorie": "Gartengestaltung & Design",
+    "beschreibung": "Ein hochwertig gestalteter Gartenbeet mit frischen Salatpflanzen, grünen Blüten und einer Topfpflanze mit Tulpen. Im Hintergrund sind weitere Pflanzen und ein Zaun zu sehen."
+  },
+  {
+    "datei": "pflanzen-025.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.52.jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Ein farbenfroher Blumenbeet mit verschiedenen Blumenarten, darunter Alliums und Irisen, ist im Vordergrund zu sehen. Im Hintergrund sind grüne Hecken und Bäume sichtbar."
+  },
+  {
+    "datei": "terrasse-040.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.53 (1).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein modernes Haus mit Terrasse und einer neuen Terrassenüberdachung ist im Vordergrund zu sehen. Die Umgebung ist gepflegt mit jungen Pflanzen und Büschen."
+  },
+  {
+    "datei": "pflanzen-026.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.53 (2).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt eine Nahaufnahme von Tulpen und Hyazinthen in verschiedenen Farben, darunter Rosa, Weiß und Dunkelrot, vor einer neutralen Wand im Hintergrund."
+  },
+  {
+    "datei": "pflanzen-027.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.53 (4).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt eine Nahaufnahme von Tulpen und Hyazinthen in einem Garten, mit einem neutralen Hintergrund aus einer gelben Wand. Die Tulpen sind in verschiedenen Farben wie Rosa und Weiß, während die Hyazinthen rosa sind. Die Pflanzen sind gut gepflegt und die Blüten sind in voller Blüte."
+  },
+  {
+    "datei": "terrasse-041.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.34.53.jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein moderner Terrassenüberdachungsbau mit Glasdach und Metallkonstruktion, umgeben von gepflegtem Grün und Blütensträuchern. Die Terrasse ist mit großen Fliesen ausgelegt und bietet einen eleganten Außenaufenthalt."
+  },
+  {
+    "datei": "garten-034.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.13 (1).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Garten mit Tulpen, Hecken und einer Skulptur auf einer Treppe. Im Hintergrund sind Terrassensitze und ein Gebäude zu sehen."
+  },
+  {
+    "datei": "pflanzen-028.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.13.jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt eine Blumenbeet mit Tulpen in verschiedenen Farben, umgeben von Bäumen und Hecken. Im Hintergrund sind Blütenbäume und ein Teil eines Hauses sichtbar."
+  },
+  {
+    "datei": "terrasse-042.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.14 (1).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Das Bild zeigt eine gepflegte Terrasse mit Pflanzenkästen, die mit weißen Tulpen und Narzissen bestückt sind. Im Hintergrund ist ein Glasdach und ein Teil des Innenraums sichtbar."
+  },
+  {
+    "datei": "pflanzen-029.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.14 (2).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt eine Blumenpflanze mit weißen Tulpen und Narzissen in einem Topf auf einer Terrasse. Die Pflanze ist gesund und prächtig, mit frischen Blättern und Blüten."
+  },
+  {
+    "datei": "pflanzen-030.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.14 (3).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt eine Blumenpflanze mit weißen Tulpen und Narzissen in voller Blüte, umgeben von grünen Blättern. Die Blumen sind frisch und gut gepflegt."
+  },
+  {
+    "datei": "pflanzen-031.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.14 (4).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt eine Blumenbeet mit gelben Tulpen und Narzissen in voller Blüte, umgeben von grünen Blättern. Die Szene wirkt frisch und lebhaft, typisch für einen Frühlingstag."
+  },
+  {
+    "datei": "pflanzen-032.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.14.jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Ein Blumenbeet mit Tulpen und Hyazinthen in verschiedenen Farben vor einem Haus mit Terrasse und Fenstern."
+  },
+  {
+    "datei": "garten-035.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.15 (1).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein hochauflösendes Bild eines bepflanzten Hochbeetes mit grünen und roten Blättern, das in einem sonnigen Garten steht."
+  },
+  {
+    "datei": "pflanzen-033.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.15 (2).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt eine Nahaufnahme einer weißen Narzisse mit gelbem Zentrum, umgeben von grünen Blättern. Im Hintergrund sind weitere Narzissen und ein Teil eines Gebäudes zu sehen."
+  },
+  {
+    "datei": "pflanzen-034.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.15 (3).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt eine Blumenbeet mit Narzissen und Tulpen vor einem Haus. Die Narzissen sind in verschiedenen Stadien der Blüte, von knospenhaft bis vollständig geöffnet. Das Bild ist hell und klar, was eine ansprechende Darstellung der Pflanzen bietet."
+  },
+  {
+    "datei": "pflanzen-035.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.15 (4).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt eine Gruppe von Narzissen mit cremefarbenen Blüten und leichten Orange- und Rosa-Tönen, die in einem Garten auf einer grauen Steinplatte stehen. Im Hintergrund sind grüne Pflanzen und Bäume sichtbar."
+  },
+  {
+    "datei": "pflanzen-036.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.15 (5).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Ein farbenfrohes Blumenarrangement mit Tulpen, Hyazinthen und anderen Blumen in einem Topf, das ansprechend und professionell wirkt."
+  },
+  {
+    "datei": "garten-036.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.15.jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein Holzbeet mit frischen Kräutern und Salatpflanzen steht im Vordergrund, im Hintergrund ist ein weißer Hund auf einer Rasenfläche zu sehen. Im Hintergrund sind weitere Pflanzen und Sträucher sichtbar."
+  },
+  {
+    "datei": "garten-037.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.16 (1).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Garten mit Holzbeeten, Pflanzen und Blumen. Im Hintergrund ist ein Haus mit einer grünen Wand und Terrassenmöbeln zu sehen."
+  },
+  {
+    "datei": "garten-038.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.16 (2).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflasterter Weg durch einen Rasenbereich, der von grünem Gras umgeben ist. Die Pflastersteine sind in Reihen angeordnet und teilweise von neuem Gras überwachsen."
+  },
+  {
+    "datei": "pflanzen-037.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.16.jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt eine Nahaufnahme von Tulpen und Hyazinthen in einem Gartenbeet, umgeben von Gräsern und anderen Pflanzen. Die Farben sind lebhaft und die Bildqualität ist gut."
+  },
+  {
+    "datei": "garten-039.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.17 (1).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Gartenbereich mit einem Muster aus Kies und Gras, umgeben von Bäumen und einem weißen Zaun. Im Hintergrund sind Wohngebäude sichtbar."
+  },
+  {
+    "datei": "garten-040.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.17.jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Das Bild zeigt einen Abschnitt eines Gartens mit einem gepflasterten Weg und einer Steinmauer, die mit kleinen Steinen gefüllt ist. Rechts ist ein Grasstreifen sichtbar."
+  },
+  {
+    "datei": "design-013.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.18 (1).jpeg",
+    "kategorie": "Gartengestaltung & Design",
+    "beschreibung": "Ein gepflegter Baum steht inmitten eines Kreisweges aus Pflastersteinen, umgeben von Grünflächen und einem Zaun im Hintergrund. Das Bild zeigt eine professionell gestaltete Gartenlandschaft."
+  },
+  {
+    "datei": "design-014.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.18 (2).jpeg",
+    "kategorie": "Gartengestaltung & Design",
+    "beschreibung": "Ein Mitarbeiter eines Garten- und Landschaftspflegebetriebs legt einen Kreis aus Pflastersteinen auf einem Rasen. Die Arbeit wird mit Werkzeugen und Materialien unterstützt."
+  },
+  {
+    "datei": "design-015.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.18 (3).jpeg",
+    "kategorie": "Gartengestaltung & Design",
+    "beschreibung": "Ein gepflegter Garten mit einem runden Pflasterweg, umgeben von Gras und Bäumen. Im Zentrum steht ein Baum mit einer Sitzbank darum herum."
+  },
+  {
+    "datei": "garten-041.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.18.jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Rasenbereich mit Blumenbeeten und einer gepflegten Hecke im Hintergrund. Ein geparktes Auto und ein Wohnhaus sind im Hintergrund sichtbar."
+  },
+  {
+    "datei": "pflanzen-038.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.19 (1).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt eine Blumenbeet mit Allium-Blüten in rosa Farben, die in einer ordentlichen Anordnung stehen. Im Hintergrund sind grüne Sträucher zu sehen."
+  },
+  {
+    "datei": "design-016.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.19 (2).jpeg",
+    "kategorie": "Gartengestaltung & Design",
+    "beschreibung": "Ein prächtig gestalteter Garten mit einer Vielzahl von Blumen und Pflanzen, die in verschiedenen Farben und Größen angeordnet sind. Im Hintergrund ist eine Terrasse mit einem Tisch und Stühlen zu sehen, umgeben von grünen Hecken und Bäumen."
+  },
+  {
+    "datei": "pflanzen-039.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.19 (3).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Ein Bienenbesuch auf einer purpurfarbenen Blüte, die von einer großen, dichten Blütenkugel umgeben ist. Die Szene zeigt die natürliche Interaktion zwischen Insekt und Pflanze."
+  },
+  {
+    "datei": "terrasse-043.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.19.19.jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein Bauprozess zeigt die Installation von Betonplatten für eine Terrasse oder einen Außenbereich. Die Platten liegen noch unverlegt auf dem Boden."
+  },
+  {
+    "datei": "garten-042.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.20.14 (1).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Das Bild zeigt einen Garten mit blühenden Agapanthus-Blumen und einer Terrasse im Hintergrund. Ein Haus und eine Statue sind ebenfalls sichtbar."
+  },
+  {
+    "datei": "pflanzen-040.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.20.14 (2).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt zwei gelbe Blüten einer Kürbisart in einem Garten. Die Blüten sind groß und aufwendig, umgeben von grünen Blättern und Stängeln."
+  },
+  {
+    "datei": "garten-043.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.20.14 (4).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Das Bild zeigt eine Auswahl von Gemüse, darunter Zucchini, Auberginen und Paprika, auf einem Holztisch."
+  },
+  {
+    "datei": "pflanzen-041.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.20.14 (5).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Ein Nahaufnahme einer lila Blüte mit grünen Blättern und einem unscharfen Hintergrund, der auf einen Garten hinweist."
+  },
+  {
+    "datei": "garten-044.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.20.14.jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Das Bild zeigt eine sonnige Gartenszene mit blühenden Agapanthus-Blumen und anderen Pflanzen. Im Hintergrund sind ein Haus und eine Terrasse zu sehen."
+  },
+  {
+    "datei": "garten-045.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.20.15 (1).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Garten mit prägnanten Hecken, Blumenbeeten und einer Rasenfläche. Die Pflanzen sind gut gepflegt und der Rasen ist saftig grün."
+  },
+  {
+    "datei": "garten-046.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.20.15 (10).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Garten mit Steinwegen, Sträuchern und Blumenpflanzen. Ein Holzterrasse und eine Steinmauer sind im Hintergrund zu sehen."
+  },
+  {
+    "datei": "terrasse-044.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.20.15 (11).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein gepflegter Garten mit Holztisch und Stühlen auf einer Terrasse. Der Hintergrund zeigt gepflegte Hecken, Blumenbeete und Bäume."
+  },
+  {
+    "datei": "terrasse-045.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.20.15 (12).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein gepflegter Garten mit einer Terrasse aus Holz und Stein, darauf steht ein Tisch mit Stühlen. Im Vordergrund sind Blumen und Pflanzen zu sehen, im Hintergrund sind Bäume und Hecken sichtbar."
+  },
+  {
+    "datei": "garten-047.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.20.15 (13).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Garten mit einer Holzterrasse, einer Reihe von Stühlen und einem Blumenbeet mit lila Blüten. Die Anordnung ist ordentlich und die Pflanzen sind gut gepflegt."
+  },
+  {
+    "datei": "garten-048.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.20.15 (2).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein gepflegter Garten mit grünem Rasen, gepflegten Hecken und Blumenbeeten. Die Szene wirkt gepflegt und ordentlich."
+  },
+  {
+    "datei": "terrasse-046.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.20.15 (3).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein gepflegter Terrassenbereich mit Sitzmöbeln, Pflanzen und einem Wasserbecken, umgeben von grünen Hecken und Bäumen."
+  },
+  {
+    "datei": "pflanzen-042.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.20.15 (4).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Ein Blumenbeet mit einer Vielzahl von Blumen in verschiedenen Farben und Formen, darunter rote Clematis, lila Blüten und weiße Glockenblumen, ist im Vordergrund zu sehen. Im Hintergrund ist ein graues Pflanzgefäß mit weiteren Blumen zu erkennen. Die Szene ist in einem hellen Raum mit großen Fenstern, vermutlich einem Wintergarten oder einer Terrasse, aufgenommen."
+  },
+  {
+    "datei": "pflanzen-043.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.20.15 (5).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Das Bild zeigt eine Pflanze mit leuchtend roten und weißen Blüten in einem sonnigen Innenraum, wahrscheinlich in einem Gewächshaus."
+  },
+  {
+    "datei": "pflanzen-044.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.20.15 (6).jpeg",
+    "kategorie": "Pflanzen & Blumen",
+    "beschreibung": "Ein Blumenbeet mit einer Vielzahl von Blumen und grünen Pflanzen, darunter helle und dunkle Blüten, ist im Vordergrund zu sehen. Im Hintergrund ist ein gepflasterter Boden sichtbar."
+  },
+  {
+    "datei": "terrasse-047.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.20.15 (7).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Das Bild zeigt eine Pflanze mit großen, weißen Blüten in einem grauen Pflanzkübel auf einer Terrasse. Im Hintergrund sind Holzstühle und ein Fenster zu sehen."
+  },
+  {
+    "datei": "terrasse-048.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.20.15 (8).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein sonniger Balkon mit Holzmöbeln, Pflanzenkübeln und Blick auf grüne Bäume und Hügel im Hintergrund."
+  },
+  {
+    "datei": "terrasse-049.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 15.20.15 (9).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein sonniger Balkon mit Holztisch und Stühlen, umgeben von Pflanzen und Blumen in grauen Pflanzkübeln. Die Terrasse ist mit weißen Jalousien und einer Glaswand abgeschlossen."
+  },
+  {
+    "datei": "garten-049.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.17 (2).jpeg",
+    "kategorie": "Garten & Rasen",
+    "beschreibung": "Ein neuer Rasen mit deutlichen Spuren von Grasfrischung und einer Randbehandlung aus Kies. Im Hintergrund sind Bäume und Hecken zu sehen."
+  },
+  {
+    "datei": "terrasse-050.jpg",
+    "original": "WhatsApp Image 2026-03-16 at 14.30.16 (4).jpeg",
+    "kategorie": "Terrasse & Außenbereich",
+    "beschreibung": "Ein neuer Grasbelag wird auf einem Dachterrassenbereich angelegt, um ihn als Grünfläche zu nutzen. Eine Person arbeitet daran, während umgebende Bäume und ein Haus im Hintergrund zu sehen sind."
+  }
+]

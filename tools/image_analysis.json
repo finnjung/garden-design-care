@@ -1,0 +1,2655 @@
+{
+  "erstellt": "2026-03-19T19:12:58.513727",
+  "gesamt": 185,
+  "ausgewaehlt": 178,
+  "bilder": [
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.12 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.12 (1).jpeg",
+      "hash": "82376fd2b446d1a6",
+      "analyse": {
+        "beschreibung": "Ein modern gestalteter Garten mit einer Holzterrasse, einer Pergola, einem Outdoor-Küchebereich und einem Sitzbereich mit Sofas. Das Bild zeigt eine ansprechende und professionell wirkende Gartengestaltung.",
+        "kategorie": "Gartengestaltung & Design",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.12 (2).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.12 (2).jpeg",
+      "hash": "a055f360b52c7b2d",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit einer zentralen Pflanze, die von weißblühenden Hortensien umgeben ist. Die Hecken sind präzise geschnitten und der Boden ist mit Rasen bedeckt.",
+        "kategorie": "Gartengestaltung & Design",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.12 (3).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.12 (3).jpeg",
+      "hash": "aad58738330cd1f6",
+      "analyse": {
+        "beschreibung": "Ein Mann steht auf einem Balkon und pflanzt Bambus. Im Hintergrund ist eine städtische Skyline mit Hochhäusern und grünen Bäumen zu sehen.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Blick auf die Stadtlandschaft, professionelle Aufnahme"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.12 (4).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.12 (4).jpeg",
+      "hash": "e5d4e8898c175676",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit einer langen Blumenkübelreihe, die farbenfrohe Blumen und Pflanzen enthält. Im Hintergrund ist eine Terrasse mit einem Tisch und Stühlen zu sehen, sowie ein Rasenbereich und ein gepflegter Baum.",
+        "kategorie": "Garten & Rasen | Pflanzen & Blumen | Terrasse & Außenbereich | Gartengestaltung & Design",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.12.jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.12.jpeg",
+      "hash": "e2c0ccfc7a2ee628",
+      "analyse": {
+        "beschreibung": "Ein Bienenbesuch auf blauen Blüten in einem Garten. Die Blüten sind lebhaft und die Biene ist detailreich dargestellt.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "lebendige Farben, klare Details"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.13 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.13 (1).jpeg",
+      "hash": "ae84a467e5776223",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit künstlichem Rasen, Blumenkübeln und einer Rasenmähmaschine im Hintergrund.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Bunte Blumenkübel, künstlicher Rasen, Rasenmähmaschine"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.13 (10).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.13 (10).jpeg",
+      "hash": "d180af33b16d6993",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Innenhof mit einem Laterne, einer Metallgittertür und einer Mauer mit Pflanzen. Das Ambiente wirkt ruhig und gepflegt.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Ein Laterne, eine Metallgittertür, eine Mauer mit Pflanzen"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null,
+      "aehnliche_bilder": [
+        {
+          "datei": "WhatsApp Image 2026-03-16 at 14.30.13 (9).jpeg",
+          "distanz": 8
+        }
+      ]
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.13 (2).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.13 (2).jpeg",
+      "hash": "a8ee14dbed928945",
+      "analyse": {
+        "beschreibung": "Ein farbenfrohes Blumenbeet mit Tulpen, Nelken und Hyazinthen in einem gepflegten Garten.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer"
+      },
+      "ausgewaehlt": false,
+      "doppelt_von": "WhatsApp Image 2026-03-16 at 14.32.20 (2).jpeg",
+      "aehnliche_bilder": [
+        {
+          "datei": "WhatsApp Image 2026-03-16 at 14.32.20 (2).jpeg",
+          "distanz": 0
+        }
+      ]
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.13 (3).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.13 (3).jpeg",
+      "hash": "d93a90129ed4eea5",
+      "analyse": {
+        "beschreibung": "Ein Blumenbeet mit einer Vielzahl von Frühlingsblumen, darunter Tulpen, Nelken und Hyazinthen, ist auf einem Holzboden platziert. Im Hintergrund sind ein Gartentisch und ein Rasen zu sehen.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": false,
+      "doppelt_von": "WhatsApp Image 2026-03-16 at 14.30.13.jpeg",
+      "aehnliche_bilder": [
+        {
+          "datei": "WhatsApp Image 2026-03-16 at 14.30.13.jpeg",
+          "distanz": 0
+        },
+        {
+          "datei": "WhatsApp Image 2026-03-16 at 14.32.20 (3).jpeg",
+          "distanz": 0
+        }
+      ]
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.13 (4).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.13 (4).jpeg",
+      "hash": "978ac501cf577683",
+      "analyse": {
+        "beschreibung": "Ein farbenfrohes Blumenbeet mit Tulpen, Narzissen und anderen Frühlingsblumen auf einer Terrasse mit Holzboden und Rasen im Hintergrund.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": false,
+      "doppelt_von": "WhatsApp Image 2026-03-16 at 14.32.20 (4).jpeg",
+      "aehnliche_bilder": [
+        {
+          "datei": "WhatsApp Image 2026-03-16 at 14.32.20 (4).jpeg",
+          "distanz": 0
+        }
+      ]
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.13 (5).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.13 (5).jpeg",
+      "hash": "f9ebf09d900f3640",
+      "analyse": {
+        "beschreibung": "Ein farbenfrohes Blumenbeet mit Tulpen, Nelken, Veilchen und Hyazinthen, das eine fröhliche und gepflegte Erscheinung vermittelt.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.13 (6).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.13 (6).jpeg",
+      "hash": "d0c0c3dfd2c125fa",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Terrassenbereich mit Holzboden, Pflanzen in Topf und einem Rasenstück im Hintergrund. Ein kleiner Baum steht im Vordergrund, umgeben von Blumenbeeten und Sträuchern.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.13 (7).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.13 (7).jpeg",
+      "hash": "aba9a5c48afe5164",
+      "analyse": {
+        "beschreibung": "Ein gepflasterter Außenbereich mit einem Fahrradständer und einer Reihe von dunklen, geschlossenen Behältern im Hintergrund. Links ist ein Teil eines Laternenpfahls sichtbar.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer"
+      },
+      "ausgewaehlt": false,
+      "doppelt_von": "WhatsApp Image 2026-03-16 at 14.30.14.jpeg",
+      "aehnliche_bilder": [
+        {
+          "datei": "WhatsApp Image 2026-03-16 at 14.30.14.jpeg",
+          "distanz": 0
+        }
+      ]
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.13 (8).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.13 (8).jpeg",
+      "hash": "aba9e1859df66043",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Gartenweg mit einem alten, dekorativen Laternenpfahl und einem Fahrradständer. Im Hintergrund sind gepflegte Hecken und Mülltonnen zu sehen.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.13 (9).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.13 (9).jpeg",
+      "hash": "d081af3a926d6d93",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Gartenbereich mit einem alten Laternenpfahl, einem Metalltor und einer gepflegten Hecke. Im Hintergrund sind Gebäude zu sehen.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.13.jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.13.jpeg",
+      "hash": "d93a90129ed4eea5",
+      "analyse": {
+        "beschreibung": "Ein Blumenbeet mit einer Vielzahl von Frühjahrsblumen, darunter Tulpen, Nelken und Hyazinthen, ist auf einem Terrassengeländer platziert. Im Hintergrund sind ein Grill und ein gepflegter Rasen zu sehen.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": false,
+      "doppelt_von": "WhatsApp Image 2026-03-16 at 14.32.20 (3).jpeg",
+      "aehnliche_bilder": [
+        {
+          "datei": "WhatsApp Image 2026-03-16 at 14.32.20 (3).jpeg",
+          "distanz": 0
+        }
+      ]
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.14 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.14 (1).jpeg",
+      "hash": "85c9ea3b9b47aaa0",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit einem alten Straßenlaterne und einem gepflasterten Weg. Im Hintergrund sind Gebäude und Bäume zu sehen.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": false,
+      "doppelt_von": "WhatsApp Image 2026-03-16 at 14.30.14 (2).jpeg",
+      "aehnliche_bilder": [
+        {
+          "datei": "WhatsApp Image 2026-03-16 at 14.30.14 (2).jpeg",
+          "distanz": 4
+        }
+      ]
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.14 (2).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.14 (2).jpeg",
+      "hash": "85c9ea7b9b172aa0",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Gartenbereich mit einem alten, dekorativen Straßenlaternturm und einem gepflegten Heckenzaun. Im Hintergrund sind Gebäude und Bäume zu sehen.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.14 (3).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.14 (3).jpeg",
+      "hash": "a4e67938c1873e4e",
+      "analyse": {
+        "beschreibung": "Ein historischer Straßenlaterne steht vor einem Gebäude mit klassischer Fassade. Die Szene wirkt gepflegt und städtisch.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Historische Laterne, gepflegte Fassade, gepflasterte Straße"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.14.jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.14.jpeg",
+      "hash": "aba9a5c48afe5164",
+      "analyse": {
+        "beschreibung": "Ein gepflasterter Außenbereich mit einem Fahrradständer und einer Reihe von dunklen Containerboxen im Hintergrund. Links ist ein Teil eines Laternenpfahls zu sehen.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.15 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.15 (1).jpeg",
+      "hash": "840affb88084df9f",
+      "analyse": {
+        "beschreibung": "Ein Baustellenbild mit zwei Fahrradständern, die in Bodenlöchern eingelassen werden. Um die Ständer herum liegen unregelmäßig gestapelte Pflastersteine.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.15.jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.15.jpeg",
+      "hash": "eac0b80f2a8a739f",
+      "analyse": {
+        "beschreibung": "Ein Mercedes-Benz Sprinter mit der Aufschrift 'Garden Design & Care' und der Kontaktdaten für den Garten- und Landschaftspflegebetrieb Giovanni Rovere. Das Fahrzeug ist mit einem Jubiläumsabzeichen für 25 Jahre Betrieb versehen.",
+        "kategorie": "Gartengestaltung & Design",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Jubiläumsabzeichen für 25 Jahre Betrieb"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.16 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.16 (1).jpeg",
+      "hash": "dec499634aa9237c",
+      "analyse": {
+        "beschreibung": "Ein modern gestalteter Gartenbereich mit einer Mischung aus Steinen, Pflanzen und einer Terrasse. Die Wand ist weiß gestrichen und mit einer Steinverkleidung versehen, während die Pflanzen ein farbenfrohes Element bieten.",
+        "kategorie": "Gartengestaltung & Design",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.16 (2).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.16 (2).jpeg",
+      "hash": "a4d9cac9c1ec9d16",
+      "analyse": {
+        "beschreibung": "Ein Blick auf einen gepflegten Gartenbereich mit Rasenfläche, Bäumen und einem Terrassenbereich. Die Struktur zeigt moderne Elemente wie eine Terrassenüberdachung und eine weiße Mauer.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Geschnittenes Gras, Terrassenüberdachung mit Gitterfenstern, moderne Mauerstruktur"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.16 (3).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.16 (3).jpeg",
+      "hash": "df4f2ea6c3c8c824",
+      "analyse": {
+        "beschreibung": "Ein neu gestalteter Gartenbereich mit einer Mauer aus Naturstein und einer Rasenfläche, die noch nicht vollständig bewachsen ist.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.16 (4).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.16 (4).jpeg",
+      "hash": "941595db89a9f0d6",
+      "analyse": {
+        "beschreibung": "Ein neuer Grasbelag wird auf einem Dachterrassenbereich angelegt, um ihn als Grünfläche zu nutzen. Eine Person arbeitet daran, während umgebende Bäume und ein Haus im Hintergrund zu sehen sind.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "neuer Grasbelag, Terrassenanlage, Arbeitsszene"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.16.jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.16.jpeg",
+      "hash": "eae88576b19d484d",
+      "analyse": {
+        "beschreibung": "Ein modern gestalteter Eingangsbereich mit Pflanzen, Steinen und einer Terrasse. Die Architektur kombiniert weiße Wände mit Natursteinverkleidungen und grünen Pflanzen.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.17 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.17 (1).jpeg",
+      "hash": "f3635960719c948f",
+      "analyse": {
+        "beschreibung": "Ein neu angelegter Rasenbereich mit Kiesrand und einer Mauer aus Ziegelsteinen. Der Rasen ist noch jung und zeigt Spuren von Pflanzungsmaschinen.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.17 (2).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.17 (2).jpeg",
+      "hash": "ab2a52d6f55b0217",
+      "analyse": {
+        "beschreibung": "Ein neuer Rasen mit deutlichen Spuren von Grasfrischung und einer Randbehandlung aus Kies. Im Hintergrund sind Bäume und Hecken zu sehen.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.17 (3).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.17 (3).jpeg",
+      "hash": "8c8e456bddf56841",
+      "analyse": {
+        "beschreibung": "Ein Ausschnitt eines Gartens mit neu angelegtem Rasen und einem Rand aus Kieseln, der die Grenze zum Haus markiert.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.17 (4).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.17 (4).jpeg",
+      "hash": "c8e858359393977a",
+      "analyse": {
+        "beschreibung": "Ein Eingangsbereich mit Ziegelpflasterstufen und einer Tür mit Glasfenstern. Die Stufen sind mit einem Metallstreifen abgesteckt, was auf eine Maßnahme zur Sicherheit oder Pflege hinweist.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Metallstreifen auf den Stufen"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.17 (5).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.17 (5).jpeg",
+      "hash": "d8c2ce1dd19c25b5",
+      "analyse": {
+        "beschreibung": "Ein Wohngebäude mit Terrasse und einem Müllcontainer im Vordergrund. Die Umgebung wirkt gepflegt, aber der Boden ist uneben und bedeckt mit Blättern und Schmutz.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Müllcontainer, unebener Boden, Blätter"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.17.jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.17.jpeg",
+      "hash": "a52549ebb6c66b11",
+      "analyse": {
+        "beschreibung": "Ein neu angelegter Rasen mit sichtbaren Musterlinien, umrandet von einem Steinbehang und einer weißen Wand. Im Hintergrund sind grüne Hecken zu sehen.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.18 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.18 (1).jpeg",
+      "hash": "c1c9e4e44a5c6cde",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Gartenweg mit Mulch und Hecken ist im Vordergrund zu sehen. Im Hintergrund befindet sich ein Haus mit einem Zaun und weiteren Bäumen.",
+        "kategorie": "Gartengestaltung & Design",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Professionell gestalteter Gartenweg mit Mulch und Hecken"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.18 (2).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.18 (2).jpeg",
+      "hash": "d34f69361619b41b",
+      "analyse": {
+        "beschreibung": "Ein Bienenbesuch auf einer Blüte einer Weißdornpflanze mit farblich abgestuften Blüten und grünen Blättern. Im Hintergrund sind Metallpfosten und weitere Pflanzen zu sehen.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.18 (3).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.18 (3).jpeg",
+      "hash": "85f6f93d52204d0f",
+      "analyse": {
+        "beschreibung": "Ein Bild einer Terrasse mit einer neu gestrichenen Treppe und einem eleganten Geländer. Im Hintergrund ist ein großes Fenster mit Blick auf einen Innenraum, der mit Kunstwerken und Möbeln dekoriert ist.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Die Treppe ist neu gestrichen und die Farbe passt gut zum Geländer. Das Bild zeigt eine professionelle und ansprechende Darstellung des Außenbereichs."
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.18 (4).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.18 (4).jpeg",
+      "hash": "acd5d585165e58d8",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Gartenweg mit rosa Hortensien und Gräsern, die entlang einer weißen Mauer mit schwarzen Beleuchtungselementen wachsen.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Die Kombination aus Blumen und Gräsern sowie die moderne Beleuchtung an der Mauer verleiht dem Bild eine ansprechende Ästhetik."
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.18 (5).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.18 (5).jpeg",
+      "hash": "a6d2902f4b6ca9b3",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Gartenweg mit einer Mauer aus weißem Putz und Stein, flankiert von rosa Hortensien und grünen Gräsern. Die Szene wirkt ruhig und gepflegt.",
+        "kategorie": "Gartengestaltung & Design",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.18 (6).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.18 (6).jpeg",
+      "hash": "923e74414d5f6707",
+      "analyse": {
+        "beschreibung": "Ein Mitarbeiter eines Garten- und Landschaftspflegebetriebs arbeitet an der Renovierung einer Steintreppe. Er trägt Schutzausrüstung und verwendet Werkzeuge, um Schäden zu beseitigen und die Treppe zu reparieren.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Werkzeug und Schutzausrüstung sind sichtbar, was auf eine professionelle Arbeit hindeutet."
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.18 (7).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.18 (7).jpeg",
+      "hash": "c2c0929252ecfdfa",
+      "analyse": {
+        "beschreibung": "Ein gepflasterter Außenbereich mit einer Wand und einem Gittertor im Hintergrund. Ein Gartenschlauch hängt an der Wand.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.18 (8).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.18 (8).jpeg",
+      "hash": "87a661c38df8385d",
+      "analyse": {
+        "beschreibung": "Ein neuer Pflasterweg wird gerade verlegt, mit einem Muster aus quadratischen Steinen und einer Randverzierung aus runden Steinen. Im Hintergrund ist ein Haus mit Garage und einem Zaun zu sehen.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.18 (9).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.18 (9).jpeg",
+      "hash": "81bcb5a525e7638a",
+      "analyse": {
+        "beschreibung": "Ein Holzsteg mit Pflanzen und Blumen am Rand, Schuhe und eine Wasserflasche auf den Stufen, im Hintergrund ein Fenster mit einem Hund und einem Tisch mit Stühlen.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.30.18.jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.30.18.jpeg",
+      "hash": "dbfe3604cb831394",
+      "analyse": {
+        "beschreibung": "Ein Eingangsbereich mit einer weißen Tür, einer Briefkastenanlage und einer Treppe aus Holz. Die Umgebung wirkt sauber und gepflegt.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.20 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.20 (1).jpeg",
+      "hash": "bf948e529be1f880",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit Rasenfläche, Blumenbeeten und einer Zierpflanze im Zentrum. Die Terrasse im Vordergrund zeigt eine Sitzgruppe und Pflanzenkästen.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Professionell gestalteter Garten mit guter Struktur und Farbkontrasten"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.20 (10).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.20 (10).jpeg",
+      "hash": "f1c09eb31b533435",
+      "analyse": {
+        "beschreibung": "Ein Garten mit einer neu errichteten Sichtschutzmauer aus Holz und gelben Streifen. Eine Person arbeitet im Hintergrund an weiteren Bauarbeiten.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Die Sichtschutzmauer ist neu und auffällig gestaltet. Im Hintergrund sind weitere Gartenarbeiten zu sehen."
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.20 (11).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.20 (11).jpeg",
+      "hash": "83873c809fc6c7ce",
+      "analyse": {
+        "beschreibung": "Ein Mann installiert eine gelbe Sichtschutzblende an einer Hauswand. Er trägt Handschuhe und arbeitet sorgfältig an der Montage.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Die gelbe Farbe der Blende fällt auf und verleiht dem Bild einen frischen Eindruck."
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.20 (12).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.20 (12).jpeg",
+      "hash": "c5d426eab2a4b9b2",
+      "analyse": {
+        "beschreibung": "Ein neuer Zaun mit gelben Streifen und weißem Rahmen wird aufgestellt. Im Hintergrund sind Bäume und ein bewölkter Himmel zu sehen.",
+        "kategorie": "Gartengestaltung & Design",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.20 (2).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.20 (2).jpeg",
+      "hash": "a8ee14dbed928945",
+      "analyse": {
+        "beschreibung": "Ein farbenfrohes Blumenbeet mit Tulpen, Nelken und Hyazinthen in einem gepflegten Garten.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.20 (3).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.20 (3).jpeg",
+      "hash": "d93a90129ed4eea5",
+      "analyse": {
+        "beschreibung": "Ein prächtig gestalteter Blumenbeet mit einer Vielzahl von Frühjahrsblumen wie Tulpen, Hyazinthen und Narzissen ist auf einem Holzboden platziert. Im Hintergrund sind ein Gartentisch mit einer Plane und ein Rasen zu sehen.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.20 (4).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.20 (4).jpeg",
+      "hash": "978ac501cf577683",
+      "analyse": {
+        "beschreibung": "Ein farbenfrohes Blumenbeet mit Tulpen, Narzissen und anderen Frühlingsblumen auf einer Terrasse mit Holzboden und Rasen im Hintergrund.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.20 (5).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.20 (5).jpeg",
+      "hash": "d9671e1d9b9190e4",
+      "analyse": {
+        "beschreibung": "Ein Mann reinigt eine gepflasterte Terrasse mit einem Hochdruckreiniger. Im Hintergrund sind ein Haus und gepflegte Pflanzen zu sehen.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.20 (6).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.20 (6).jpeg",
+      "hash": "c98bc9c2d1c5e6f0",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit künstlichem Rasen, Holzterrasse und Pflanzenbeeten, die mit Blumen dekoriert sind. Im Hintergrund sind Bäume und Häuser sichtbar.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Professionell gestalteter Garten mit sorgfältig angeordneten Pflanzen und Blumenbeeten"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.20 (7).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.20 (7).jpeg",
+      "hash": "f0c79cde91c890da",
+      "analyse": {
+        "beschreibung": "Ein prächtig gestalteter Blumenbeet mit einer Vielzahl von Frühlingsblumen, darunter Tulpen, Nelken und andere farbenfrohe Pflanzen, ist auf einer Terrasse platziert.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.20 (8).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.20 (8).jpeg",
+      "hash": "fa94ac6263d899aa",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Gartenweg mit künstlichem Rasen führt durch einen schmalen, von einem dunklen Zaun umgebenen Bereich. Links befindet sich ein Haus mit Fenstern und einer Terrasse.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Künstlicher Rasen, gepflegter Weg, moderne Architektur"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.20 (9).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.20 (9).jpeg",
+      "hash": "f06c82af868b8d8f",
+      "analyse": {
+        "beschreibung": "Ein Garten mit vielen Mäusespuren auf dem Rasen, einer Mauer, einem Spielplatz und einem Fußballtor im Hintergrund.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Mäusespuren"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.20.jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.20.jpeg",
+      "hash": "b9cbe54ce6320a3c",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit grünem Rasen, einer Blütenpflanze im Zentrum, einer Holzterrasse und mehreren Blumentöpfen. Die Umgebung ist von Bäumen und Hecken umgeben.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.21 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.21 (1).jpeg",
+      "hash": "fae982c7cd830556",
+      "analyse": {
+        "beschreibung": "Ein lila Clematis-Blüte mit einem grünen Heuschrecken darauf ist im Vordergrund zu sehen. Im Hintergrund sind weitere Blüten und Blätter sichtbar.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.21 (10).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.21 (10).jpeg",
+      "hash": "d0cc3e2f948d2eca",
+      "analyse": {
+        "beschreibung": "Ein neu installierter, rechteckiger Pool mit klarem Wasser steht in einem Garten mit frischem Boden und Pflanzen im Hintergrund.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.21 (11).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.21 (11).jpeg",
+      "hash": "9ce7a3b8236b381a",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit Terrasse, Rasen und Terrassenmöbeln. Im Hintergrund sind Häuser und Bäume zu sehen.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.21 (12).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.21 (12).jpeg",
+      "hash": "d6fea515292406be",
+      "analyse": {
+        "beschreibung": "Ein modern gestalteter Garten mit einer Terrasse, Rasenfläche und einem Teich im Hintergrund. Die Anlage wirkt gepflegt und ist für eine professionelle Präsentation geeignet.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leere Terrasse, Rasenfläche, Teich, moderne Gestaltung"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.21 (13).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.21 (13).jpeg",
+      "hash": "9ce3aa28655c5a76",
+      "analyse": {
+        "beschreibung": "Ein modern gestalteter Garten mit Rasenfläche, Terrasse und einem Skatepark im Hintergrund. Die Anlage wirkt gepflegt und ist für eine professionelle Präsentation geeignet.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.21 (14).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.21 (14).jpeg",
+      "hash": "d46352376e42f4a5",
+      "analyse": {
+        "beschreibung": "Ein neu angelegter Rasenbereich mit einer Steinmauer und einer Terrasse. Der Rasen ist frisch geschnitten und die Steinmauer ist sauber und gut eingefasst.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.21 (15).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.21 (15).jpeg",
+      "hash": "b7e5e868931319b1",
+      "analyse": {
+        "beschreibung": "Ein modern gestalteter Garten mit künstlichem Rasen, einer Terrasse und einem Whirlpool. Die Anordnung wirkt gepflegt und stilvoll.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Künstliches Gras, Terrasse mit Glasfront, Whirlpool"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null,
+      "aehnliche_bilder": [
+        {
+          "datei": "WhatsApp Image 2026-03-16 at 14.32.22 (5).jpeg",
+          "distanz": 10
+        }
+      ]
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.21 (16).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.21 (16).jpeg",
+      "hash": "8b8f8994e0663b1f",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Rasen mit sichtbaren Mäharichtungen und einer gut gepflegten Hecke im Hintergrund. Das Bild zeigt einen Teil eines Gartens mit einem modernen Design.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.21 (2).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.21 (2).jpeg",
+      "hash": "9a3bfa969464e492",
+      "analyse": {
+        "beschreibung": "Ein Blick auf eine Terrasse mit einem Betonbelag, umgeben von grünen Hecken und einem Gebäude im Hintergrund. Die Terrasse zeigt Spuren von Verwitterung und Pflegebedarf.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.21 (3).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.21 (3).jpeg",
+      "hash": "bc9edee564a8114a",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit Rasen, Terrasse und moderner Architektur. Ein Terrassengeländer aus Holz und Gabionen ist sichtbar, sowie zwei Fahrräder auf der Terrasse.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Moderne Architektur, Terrassengeländer aus Holz und Gabionen"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.21 (4).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.21 (4).jpeg",
+      "hash": "acece6829373230f",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Rasenbereich mit bepflanzten Beeten und einer Terrasse im Hintergrund. Das Bild zeigt eine moderne und gepflegte Gartenlandschaft.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.21 (5).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.21 (5).jpeg",
+      "hash": "d692cd2d25603a7b",
+      "analyse": {
+        "beschreibung": "Ein modern gestalteter Garten mit Holz- und Gabionenmauern, gepflanzten Blumen und einer gepflegten Rasenfläche unter blauem Himmel.",
+        "kategorie": "Gartengestaltung & Design",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Holz- und Gabionenmauern, Blumenbeet, gepflegter Rasen"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.21 (6).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.21 (6).jpeg",
+      "hash": "f299e9f88eea0216",
+      "analyse": {
+        "beschreibung": "Ein modern gestalteter Garten mit Holz- und Gabionenmauern, einer Whirlpool-Anlage und gepflegten Pflanzen.",
+        "kategorie": "Gartengestaltung & Design",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Moderne Mauertechnik, Whirlpool, gepflegte Blumenbeete"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.21 (7).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.21 (7).jpeg",
+      "hash": "b2c504ed5f57930c",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit Rasen, Terrasse aus Holz und einer modernen Bebauung im Hintergrund. Das Bild zeigt eine ansprechende und professionell wirkende Landschaft.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.21 (8).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.21 (8).jpeg",
+      "hash": "a5c010d26f2fd35b",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit Rasen, Terrasse und Pflanzen vor einem modernen Haus unter einem bewölkten Himmel.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.21 (9).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.21 (9).jpeg",
+      "hash": "d6036bb4858d69e9",
+      "analyse": {
+        "beschreibung": "Ein neu installierter, quadratischer Pool mit weißer Umrandung steht in einem Garten mit frischem Gras und gepflegten Hecken. Im Hintergrund sind Häuser und Bäume sichtbar.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.21.jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.21.jpeg",
+      "hash": "c98b283f83d581bd",
+      "analyse": {
+        "beschreibung": "Ein grüner Heuschrecke sitzt auf einer violett-blauen Clematisblüte mit gelben Staubblättern. Das Bild zeigt eine natürliche und lebendige Szene.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "lebendige Farben, Detailreichtum"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.22 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.22 (1).jpeg",
+      "hash": "9d9d89c8603f1dcc",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Rasen mit streifenförmiger Musterung und einer weißen Mauer im Hintergrund. Bäume und Hecken grenzen den Garten ab.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.22 (10).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.22 (10).jpeg",
+      "hash": "896950946bade89f",
+      "analyse": {
+        "beschreibung": "Ein Mann arbeitet an einer Baugrube für eine neue Terrasse oder einen Gartenbau. Die Grube ist gerade ausgehoben und der Boden ist noch nicht verfüllt oder gestaltet.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.22 (11).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.22 (11).jpeg",
+      "hash": "e8f13bc1d132713c",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Nahaufnahme von frischen Tulpen und Narzissen in einem Garten. Die Blumen sind in verschiedenen Farben wie Rosa, Weiß und Orange gehalten und scheinen frisch und gepflegt zu sein.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Die Blumen sind frisch und die Farben lebhaft, was ein ansprechendes Motiv für eine Webseite darstellt."
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.22 (12).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.22 (12).jpeg",
+      "hash": "c7e67a91909985f8",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Nahaufnahme von Tulpen in verschiedenen Farben, darunter rosa und weiß, mit Wassertröpfchen darauf. Die Tulpen sind frisch und die Blätter grün, was auf eine gepflegte Gartenanlage hindeutet.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.22 (13).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.22 (13).jpeg",
+      "hash": "c9a61cc3ecc7130f",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Nahaufnahme von frischen Tulpen und Narzissen, die mit Regentropfen bedeckt sind, was auf frische und gepflegte Pflanzen hindeutet.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Regentropfen auf den Blüten, frische Farben"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.22 (14).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.22 (14).jpeg",
+      "hash": "b3f8ee90e0c65989",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine frische Blumenanordnung mit rosa Tulpen und einer weißen Narzisse, die mit Regentropfen bedeckt sind. Die Pflanzen sind in einem Gartenbeet gepflanzt, das gepflegt und ordentlich aussieht.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Regentropfen auf den Blütenblättern, frische und lebendige Farben"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.22 (15).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.22 (15).jpeg",
+      "hash": "ca97543437123d7c",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Nahaufnahme von rosa Hyazinthen und Tulpenblüten in einem Garten. Die Blüten sind frisch und die Blätter glänzen feucht, was auf eine frische Pflanzung oder Pflege hindeutet.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.22 (2).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.22 (2).jpeg",
+      "hash": "b0b433b98a8b9756",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Rasen mit sichtbaren Mähstreifen vor einem Haus mit weißer Fassade und einem Rolladenfenster. Im Hintergrund sind Bäume und ein blauer Himmel zu sehen.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.22 (3).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.22 (3).jpeg",
+      "hash": "848c8782a6e76f7c",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Rasen mit scharfen Streifen, der von einer weißen Mauer und Bäumen umgeben ist. Der Himmel ist blau mit einigen Wolken.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.22 (4).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.22 (4).jpeg",
+      "hash": "e8e8cdad97963460",
+      "analyse": {
+        "beschreibung": "Ein modern gestalteter Dachterrasengarten mit Rasenfläche, Pflanzkübeln und einer Terrasse mit Sitzmöbeln. Im Hintergrund sind Bäume und Nachbarhäuser zu sehen.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Professionelle Gestaltung, moderne Einrichtung"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.22 (5).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.22 (5).jpeg",
+      "hash": "b7f4e0e8b21919b4",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit künstlichem Rasen, einer Terrasse mit Glasfront und einer Holzverbauung im Hintergrund.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Professionell gestalteter Außenbereich mit klarem Fokus auf Rasen und Terrasse."
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.22 (6).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.22 (6).jpeg",
+      "hash": "f8787c787ad0d881",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Rasen mit sorgfältig gestreiftem Muster, umgeben von grünen Hecken und einem Gebäude im Hintergrund.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.22 (7).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.22 (7).jpeg",
+      "hash": "abf61ca0738e9568",
+      "analyse": {
+        "beschreibung": "Ein großes, schwarzes Container-ähnliches Gerät wird von einem Kran gehoben, was auf eine Installation oder den Transport im Garten- und Landschaftsbereich hinweist.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.22 (8).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.22 (8).jpeg",
+      "hash": "d51a6a75f2169a98",
+      "analyse": {
+        "beschreibung": "Ein fertiggestellter Betonbehälter steht im Vordergrund, im Hintergrund sind Zementbeutel und eine Mischmaschine zu sehen. Der Ort wirkt wie ein Baustelle für eine Garten- und Landschaftspflege.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Der Betonbehälter ist neu und sauber, was auf eine professionelle Arbeit hindeutet."
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.22 (9).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.22 (9).jpeg",
+      "hash": "db0d7462f14289cf",
+      "analyse": {
+        "beschreibung": "Ein Bauprojekt für eine Betonwanne in einem Garten mit Werkzeugen und Materialien im Hintergrund.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Betonwanne, Werkzeug, Materialien"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.32.22.jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.32.22.jpeg",
+      "hash": "8481cb597e0d87f9",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit Rasen, Beeten und Pflanzen, umgeben von einem Haus und Bäumen. Der Himmel ist blau mit einigen Wolken.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.50 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.50 (1).jpeg",
+      "hash": "852dd692b4e5de90",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Gartenweg mit Steinplatten, umgeben von gepflegten Hecken und Büschen. Rechts ist ein modernes Gebäude mit Rollladen zu sehen.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.50 (2).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.50 (2).jpeg",
+      "hash": "e53358cace6491cd",
+      "analyse": {
+        "beschreibung": "Ein modern gestalteter Gartenweg mit einer Kombination aus Steinplatten und Holzplanken, flankiert von einer hohen Hecke und einer Glaswand.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Moderne Gestaltung, Kombination aus Materialien, Privatsphäre durch Glaswand"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.50 (3).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.50 (3).jpeg",
+      "hash": "93d7d49048eaca7a",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit einer Steinpyramide im Vordergrund, umgeben von gepflegten Hecken und Büschen. Im Hintergrund sind Gebäude und ein Zaun zu sehen.",
+        "kategorie": "Gartengestaltung & Design",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.50 (4).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.50 (4).jpeg",
+      "hash": "bc7832c7299d7138",
+      "analyse": {
+        "beschreibung": "Ein modern gestalteter Garten mit einem Steinbeet, einer Kiesfläche und gepflegten Hecken. Ein kleiner Brunnen ist im Zentrum des Steinbeetes platziert.",
+        "kategorie": "Gartengestaltung & Design",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.50 (5).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.50 (5).jpeg",
+      "hash": "8bf88094f4c3bd4b",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit einer Kombination aus Sträuchern, Topiarien und einem Steinkreis, der von einem Kettenzug gehalten wird.",
+        "kategorie": "Gartengestaltung & Design",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Ein Steinkreis aus Granit, der von einer Kette gehalten wird, umgeben von gepflegten Sträuchern und Topiarien."
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.50 (6).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.50 (6).jpeg",
+      "hash": "adadad88d649c4d8",
+      "analyse": {
+        "beschreibung": "Ein Garten mit prächtigen lila Hortensien im Vordergrund und einer gepflegten Hecke aus Zypressen im Hintergrund. Ein Mitarbeiter mit Gartengerät ist dabei, den Rasen zu mähen.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "professionell wirkend"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.50.jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.50.jpeg",
+      "hash": "ea17e59a9c217b84",
+      "analyse": {
+        "beschreibung": "Ein elegantes Terrassen-Set mit Holztisch und weißen Stühlen steht inmitten eines gepflegten Gartens mit Hecken und Bäumen.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.51 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.51 (1).jpeg",
+      "hash": "98b8ebe3d2864663",
+      "analyse": {
+        "beschreibung": "Ein Blick auf einen Garten mit einer Terrasse, einer Pergola und einer Steinmauer im Vordergrund. Das Bild zeigt eine gepflegte Umgebung mit einem Baum und einigen Pflanzen.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.51 (10).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.51 (10).jpeg",
+      "hash": "8181a7baae3e9ae4",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt einen gepflegten Garten mit blühenden Lilien und weißen Blüten, die von hohen Stängeln getragen werden. Im Hintergrund sind gepflegte Hecken und Bäume zu sehen.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.51 (11).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.51 (11).jpeg",
+      "hash": "d8436160b79357d5",
+      "analyse": {
+        "beschreibung": "Ein prächtiger Blumenbeet mit einer zentralen weißen Blume, umgeben von lila und violetten Blüten, die von grünen Hecken und Bäumen im Hintergrund begrenzt werden.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.51 (12).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.51 (12).jpeg",
+      "hash": "f77c78a8d2c73180",
+      "analyse": {
+        "beschreibung": "Ein prächtiger Blumenbeet mit lila und weißen Blüten, umgeben von grünen Hecken und Bäumen. Die Pflanzen sind gut gepflegt und der Garten wirkt gepflegt und einladend.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.51 (13).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.51 (13).jpeg",
+      "hash": "c8c11a32bfee9cc8",
+      "analyse": {
+        "beschreibung": "Ein Blumenbeet mit einer großen weißen Blüte im Vordergrund und lila Blüten im Hintergrund. Eine Biene sitzt auf der weißen Blüte. Der Hintergrund ist unscharf, aber man kann Bäume und Sträucher erkennen.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Bienen auf Blüten"
+      },
+      "ausgewaehlt": false,
+      "doppelt_von": "WhatsApp Image 2026-03-16 at 14.34.51 (14).jpeg",
+      "aehnliche_bilder": [
+        {
+          "datei": "WhatsApp Image 2026-03-16 at 14.34.51 (14).jpeg",
+          "distanz": 2
+        }
+      ]
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.51 (14).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.51 (14).jpeg",
+      "hash": "c8c31a32bfee9cc0",
+      "analyse": {
+        "beschreibung": "Ein Detailbild eines blühenden Zierlauchpflanzen mit einer Biene, die auf einer Blüte sitzt. Im Hintergrund sind weitere Pflanzen und Blumen zu sehen.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.51 (15).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.51 (15).jpeg",
+      "hash": "efc15c19183f0f07",
+      "analyse": {
+        "beschreibung": "Ein sonniger Garten mit einer Vielzahl von Blumen, darunter Alliums und Iris, die in einem Beet angepflanzt sind. Im Hintergrund sind Bäume und Sträucher zu sehen.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.51 (2).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.51 (2).jpeg",
+      "hash": "a3b3c0c4fe9f89c0",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit einer Steinmauer, einem Baum, einem Holztisch und Stühlen auf einer Terrasse. Im Hintergrund ist ein Haus mit einer Terrassenüberdachung zu sehen.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.51 (3).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.51 (3).jpeg",
+      "hash": "808023fff8fd0d4e",
+      "analyse": {
+        "beschreibung": "Ein unvollständiges Treppenstufenprojekt aus Steinblöcken, das noch nicht befestigt ist. Die Umgebung ist mit frischer Erde bedeckt, was darauf hindeutet, dass es sich um eine aktuelle Baustelle handelt.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.51 (4).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.51 (4).jpeg",
+      "hash": "a95992c84ce667e3",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Vielzahl von blühenden Pflanzen mit lila und violetten Blüten, die in einem Garten oder einer Pflanzung angepflanzt sind. Die Blüten sind in verschiedenen Stadien der Blüte, von knospenartig bis vollständig geöffnet, was auf eine gesunde und gepflegte Pflanzung hinweist.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.51 (5).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.51 (5).jpeg",
+      "hash": "f2a6b0d3cca51a5a",
+      "analyse": {
+        "beschreibung": "Ein gut gepflegter Gemüsegarten mit sortenreicher Auswahl an Salat- und Blattgemüsepflanzen. Die Pflanzen sind ordentlich angeordnet und von einer Holzleiste abgegrenzt.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.51 (6).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.51 (6).jpeg",
+      "hash": "ba3da298b7d18c13",
+      "analyse": {
+        "beschreibung": "Ein gut gepflegter Gemüsegarten mit verschiedenen Salatarten, Blattkohl und Blattkohlkraut. Die Pflanzen sind ordentlich angeordnet und von einer Mulchschicht umgeben.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.51 (7).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.51 (7).jpeg",
+      "hash": "8bb0e1c67986bcc3",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt einen gut gepflegten Gemüsegarten in einem Gewächshaus mit verschiedenen Salatarten und Blattgemüse. Die Pflanzen sind ordentlich angeordnet und die Umgebung wirkt sauber und gepflegt.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.51 (8).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.51 (8).jpeg",
+      "hash": "df77e629442b901c",
+      "analyse": {
+        "beschreibung": "Ein farbenfrohes Blumenbeet mit verschiedenen Pflanzen, darunter Hosta, Astilbe und Teppichblumen, vor einem modernen Hintergrund.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.51 (9).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.51 (9).jpeg",
+      "hash": "e63cd1483e7387c4",
+      "analyse": {
+        "beschreibung": "Ein farbenfrohes Blumenbeet mit verschiedenen Blumenarten wie Lupinen, Fuchsien und Astilben, das gut gepflegt und vielseitig gestaltet ist.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.51.jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.51.jpeg",
+      "hash": "ada5a5cc5269c655",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit prächtigen lila Hortensien im Vordergrund und einer Reihe von dicht stehenden, sorgfältig geschnittenen Hecken im Hintergrund. Zwei Personen sind dabei, den Rasen zu mähen.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Professionelle Pflege, gepflegte Pflanzen, sorgfältige Heckenform"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.52 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.52 (1).jpeg",
+      "hash": "db647f8bacd09860",
+      "analyse": {
+        "beschreibung": "Ein prächtiger Blumenbeet mit einer Mischung aus lila und weißen Blüten, umgeben von grünen Blättern und hohen Sträuchern im Hintergrund.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.52 (10).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.52 (10).jpeg",
+      "hash": "e984cc9eeee0e0a3",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Vielzahl von Tulpen in verschiedenen Farben, darunter Lila, Rosa und Weiß, die in einem Garten gepflanzt sind. Im Hintergrund sind gepflegte Hecken und Bäume zu sehen.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.52 (11).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.52 (11).jpeg",
+      "hash": "ef81581a16273fca",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Blumenbeet mit Tulpen in verschiedenen Farben wie Rosa, Weiß und Dunkelrot. Die Pflanzen sind gepflegt und die Blüten sind frisch und lebhaft.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.52 (12).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.52 (12).jpeg",
+      "hash": "e39a8d9571394de0",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Blumenanordnung mit Tulpen in verschiedenen Farben, darunter Weiß und Dunkelrot, vor einem Hintergrund mit einem Hund und einer Terrasse.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Die Tulpen sind gut sichtbar und die Farben sind lebendig. Der Hintergrund gibt Kontext zum Standort."
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.52 (13).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.52 (13).jpeg",
+      "hash": "e08f7c71e8ef0107",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Gruppe von Tulpen in verschiedenen Farben, darunter Weiß und Rot, vor einem Haus mit einer Tür im Hintergrund. Die Tulpen sind frisch und gut gepflegt, was auf eine professionelle Gartenpflege hindeutet.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Die Tulpen sind in voller Blüte und die Farben sind lebendig. Das Bild ist klar und gut belichtet."
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.52 (14).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.52 (14).jpeg",
+      "hash": "ad922ccdf27940bc",
+      "analyse": {
+        "beschreibung": "Ein Bild von einer gepflegten Tulpenanpflanzung vor einem Haus mit Treppe und Fenster im Hintergrund.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Die Tulpen sind in verschiedenen Farben (weiß, rosa, lila) angepflanzt und präsentieren sich frisch und ordentlich."
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.52 (15).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.52 (15).jpeg",
+      "hash": "85f27ac467962a56",
+      "analyse": {
+        "beschreibung": "Ein modernes Haus mit einer Terrasse, die von einer transparenten Überdachung geschützt wird. Blühende Bäume und gepflegte Pflanzen umgeben den Bereich, was auf eine sorgfältige Gartenpflege hinweist.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "transparente Überdachung, gepflegte Pflanzen, Blühende Bäume"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.52 (2).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.52 (2).jpeg",
+      "hash": "da133e9422a6eb65",
+      "analyse": {
+        "beschreibung": "Ein Blumenbeet mit lila und weiß blühenden Allium-Arten, umgeben von grünen Blättern und anderen Pflanzen. Das Bild zeigt eine frische und gepflegte Gartenlandschaft.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.52 (3).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.52 (3).jpeg",
+      "hash": "b564d22369ca4b5b",
+      "analyse": {
+        "beschreibung": "Ein prächtiger Blumenbeet mit lila und weiß blühenden Alliums und anderen Blumen, die in einem sonnigen Garten wachsen.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.52 (4).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.52 (4).jpeg",
+      "hash": "cb3c7a8a2e52c58d",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Blumenbeet mit einer Vielzahl von Blumen, hauptsächlich Alliums, in Weiß und Lila. Die Pflanzen sind gut gepflegt und das Bild ist klar und farbenfroh.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.52 (5).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.52 (5).jpeg",
+      "hash": "a6c79194dc9d1c39",
+      "analyse": {
+        "beschreibung": "Ein prächtiger Blumenbeet mit Irisen und Zierlauch in einem gepflegten Garten mit Blick auf ein Haus im Hintergrund.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leuchtende Farben, gut strukturiertes Bild, professionell wirkend"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.52 (6).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.52 (6).jpeg",
+      "hash": "8b58ffacc896930c",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt einen Blumenbeet mit lila Irisblüten und weißen Zierlauchblüten in einem sonnigen Garten. Im Hintergrund sind grüne Hecken und ein Teil eines Gebäudes zu sehen.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.52 (7).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.52 (7).jpeg",
+      "hash": "f5740d2c3f9f2214",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit grüner Rasenfläche, einer ordentlichen Hecke und einer Blumenbeet-Einfassung aus Boxenhecken. Im Hintergrund sind Terrassen und weitere Pflanzen zu sehen.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "professionell wirkend"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.52 (8).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.52 (8).jpeg",
+      "hash": "c5ccd36c51624af5",
+      "analyse": {
+        "beschreibung": "Ein Blumenkübel mit Tulpen in verschiedenen Farben, darunter Weiß, Lila und Dunkelrot, steht auf einer Terrasse. Im Hintergrund sind Treppen und ein Zaun zu sehen.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.52 (9).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.52 (9).jpeg",
+      "hash": "94e8dee1088da773",
+      "analyse": {
+        "beschreibung": "Ein hochwertig gestalteter Gartenbeet mit frischen Salatpflanzen, grünen Blüten und einer Topfpflanze mit Tulpen. Im Hintergrund sind weitere Pflanzen und ein Zaun zu sehen.",
+        "kategorie": "Gartengestaltung & Design",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Hochwertige Bildqualität, ansprechendes Motiv, professionell wirkend"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.52.jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.52.jpeg",
+      "hash": "fc5f6c92b1c548c1",
+      "analyse": {
+        "beschreibung": "Ein farbenfroher Blumenbeet mit verschiedenen Blumenarten, darunter Alliums und Irisen, ist im Vordergrund zu sehen. Im Hintergrund sind grüne Hecken und Bäume sichtbar.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.53 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.53 (1).jpeg",
+      "hash": "cda426ce411fb365",
+      "analyse": {
+        "beschreibung": "Ein modernes Haus mit Terrasse und einer neuen Terrassenüberdachung ist im Vordergrund zu sehen. Die Umgebung ist gepflegt mit jungen Pflanzen und Büschen.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.53 (10).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.53 (10).jpeg",
+      "hash": "ba83c71dada4ce30",
+      "analyse": {
+        "beschreibung": "Ein Blumenbeet mit Tulpen in verschiedenen Farben und Hyazinthen in Rosa ist sorgfältig gepflegt und präsentiert sich ansprechend.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.53 (11).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.53 (11).jpeg",
+      "hash": "b3c6241cb5b54c5b",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Blumenbeet mit Tulpen in verschiedenen Farben wie Rosa, Weiß und Dunkelrot. Im Hintergrund sind ein Haus und Bäume zu sehen.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.53 (2).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.53 (2).jpeg",
+      "hash": "95ce7abc74218bb0",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Nahaufnahme von Tulpen und Hyazinthen in verschiedenen Farben, darunter Rosa, Weiß und Dunkelrot, vor einer neutralen Wand im Hintergrund.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Die Tulpen sind in voller Blüte und die Farben kontrastieren schön miteinander."
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.53 (3).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.53 (3).jpeg",
+      "hash": "b6c92f17a22f8ac4",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Nahaufnahme von Tulpen und Hyazinthen in einem Garten. Die Tulpen sind in verschiedenen Farben wie Weiß und Dunkelrot, während die Hyazinthen rosa gefärbt sind. Im Hintergrund sind Betonstufen und eine gelbe Wand zu sehen.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.53 (4).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.53 (4).jpeg",
+      "hash": "92ec4819ebb6c873",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Nahaufnahme von Tulpen und Hyazinthen in einem Garten, mit einem neutralen Hintergrund aus einer gelben Wand. Die Tulpen sind in verschiedenen Farben wie Rosa und Weiß, während die Hyazinthen rosa sind. Die Pflanzen sind gut gepflegt und die Blüten sind in voller Blüte.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.53 (5).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.53 (5).jpeg",
+      "hash": "dbca3cbd8db0030e",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Nahaufnahme von Tulpen und Hyazinthen in einem Garten. Die Tulpen sind in verschiedenen Farben wie Rosa und Weiß, während die Hyazinthen rosa sind. Im Hintergrund sind ein Gebäude und Bäume zu sehen.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.53 (6).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.53 (6).jpeg",
+      "hash": "8dcf03aaa687bb18",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Nahaufnahme von Tulpen und Hyazinthen in einem Garten. Die Tulpen sind in verschiedenen Farben wie Rosa und Weiß, während die Hyazinthen rosa sind. Im Hintergrund sind Bäume und ein Haus zu sehen.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.53 (7).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.53 (7).jpeg",
+      "hash": "e6c222b5d968359b",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Gruppe von Tulpen in verschiedenen Farben, darunter Rosa und Dunkelrot, im Vordergrund. Im Hintergrund ist ein Mann zu sehen, der sich auf einem gepflasterten Weg bewegt, und ein weißes Fahrzeug steht an einer Garage.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.53 (8).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.53 (8).jpeg",
+      "hash": "e7f231ce20c94e3c",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Blumenrabatte mit Tulpen in verschiedenen Farben vor einem Gebäude. Im Hintergrund sind zwei Mitarbeiter in grüner Arbeitskleidung zu sehen, die sich in einer gepflegten Umgebung mit einem weißen Lieferwagen befinden.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.53 (9).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.53 (9).jpeg",
+      "hash": "afd3700d52c5a5d4",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Blumenbeet mit Tulpen in verschiedenen Farben wie Rosa, Weiß und Dunkelrot, sowie rosa Hyazinthen. Die Pflanzen sind gepflegt und die Blüten sind frisch und lebhaft.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 14.34.53.jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 14.34.53.jpeg",
+      "hash": "fdb28e69b1c52930",
+      "analyse": {
+        "beschreibung": "Ein moderner Terrassenüberdachungsbau mit Glasdach und Metallkonstruktion, umgeben von gepflegtem Grün und Blütensträuchern. Die Terrasse ist mit großen Fliesen ausgelegt und bietet einen eleganten Außenaufenthalt.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.13 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.13 (1).jpeg",
+      "hash": "99cbadb3e4e4920a",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit Tulpen, Hecken und einer Skulptur auf einer Treppe. Im Hintergrund sind Terrassensitze und ein Gebäude zu sehen.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Bunte Tulpen, gepflegte Hecken, Skulptur, Terrasse"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.13.jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.13.jpeg",
+      "hash": "ad85bfa1a172782c",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Blumenbeet mit Tulpen in verschiedenen Farben, umgeben von Bäumen und Hecken. Im Hintergrund sind Blütenbäume und ein Teil eines Hauses sichtbar.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.14 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.14 (1).jpeg",
+      "hash": "e3184b4a87b6379c",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine gepflegte Terrasse mit Pflanzenkästen, die mit weißen Tulpen und Narzissen bestückt sind. Im Hintergrund ist ein Glasdach und ein Teil des Innenraums sichtbar.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.14 (2).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.14 (2).jpeg",
+      "hash": "a6884bb59e4e8733",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Blumenpflanze mit weißen Tulpen und Narzissen in einem Topf auf einer Terrasse. Die Pflanze ist gesund und prächtig, mit frischen Blättern und Blüten.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.14 (3).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.14 (3).jpeg",
+      "hash": "99946b2dc4922df9",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Blumenpflanze mit weißen Tulpen und Narzissen in voller Blüte, umgeben von grünen Blättern. Die Blumen sind frisch und gut gepflegt.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.14 (4).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.14 (4).jpeg",
+      "hash": "d881279c9deb4a74",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Blumenbeet mit gelben Tulpen und Narzissen in voller Blüte, umgeben von grünen Blättern. Die Szene wirkt frisch und lebhaft, typisch für einen Frühlingstag.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.14.jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.14.jpeg",
+      "hash": "a5a0aa3beb2b0c97",
+      "analyse": {
+        "beschreibung": "Ein Blumenbeet mit Tulpen und Hyazinthen in verschiedenen Farben vor einem Haus mit Terrasse und Fenstern.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.15 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.15 (1).jpeg",
+      "hash": "f851833e916ab47c",
+      "analyse": {
+        "beschreibung": "Ein hochauflösendes Bild eines bepflanzten Hochbeetes mit grünen und roten Blättern, das in einem sonnigen Garten steht.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.15 (2).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.15 (2).jpeg",
+      "hash": "8dd82cd9a15ec7e0",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Nahaufnahme einer weißen Narzisse mit gelbem Zentrum, umgeben von grünen Blättern. Im Hintergrund sind weitere Narzissen und ein Teil eines Gebäudes zu sehen.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.15 (3).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.15 (3).jpeg",
+      "hash": "f98977c09e963438",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Blumenbeet mit Narzissen und Tulpen vor einem Haus. Die Narzissen sind in verschiedenen Stadien der Blüte, von knospenhaft bis vollständig geöffnet. Das Bild ist hell und klar, was eine ansprechende Darstellung der Pflanzen bietet.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.15 (4).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.15 (4).jpeg",
+      "hash": "c5246f5ecc682717",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Gruppe von Narzissen mit cremefarbenen Blüten und leichten Orange- und Rosa-Tönen, die in einem Garten auf einer grauen Steinplatte stehen. Im Hintergrund sind grüne Pflanzen und Bäume sichtbar.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leichtes Schattenwurf auf den Blüten, natürliche Beleuchtung"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.15 (5).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.15 (5).jpeg",
+      "hash": "e28792b978a13af8",
+      "analyse": {
+        "beschreibung": "Ein farbenfrohes Blumenarrangement mit Tulpen, Hyazinthen und anderen Blumen in einem Topf, das ansprechend und professionell wirkt.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.15.jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.15.jpeg",
+      "hash": "9c6a31352a7731b3",
+      "analyse": {
+        "beschreibung": "Ein Holzbeet mit frischen Kräutern und Salatpflanzen steht im Vordergrund, im Hintergrund ist ein weißer Hund auf einer Rasenfläche zu sehen. Im Hintergrund sind weitere Pflanzen und Sträucher sichtbar.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.16 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.16 (1).jpeg",
+      "hash": "c792c7f098873c6c",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit Holzbeeten, Pflanzen und Blumen. Im Hintergrund ist ein Haus mit einer grünen Wand und Terrassenmöbeln zu sehen.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Holzbeeten, Pflanzen, Blumen, Haus im Hintergrund"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.16 (2).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.16 (2).jpeg",
+      "hash": "c2c82e28e2babfe2",
+      "analyse": {
+        "beschreibung": "Ein gepflasterter Weg durch einen Rasenbereich, der von grünem Gras umgeben ist. Die Pflastersteine sind in Reihen angeordnet und teilweise von neuem Gras überwachsen.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.16.jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.16.jpeg",
+      "hash": "a7a7f014b1a30b1f",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Nahaufnahme von Tulpen und Hyazinthen in einem Gartenbeet, umgeben von Gräsern und anderen Pflanzen. Die Farben sind lebhaft und die Bildqualität ist gut.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "lebendige Farben, Nahaufnahme, ansprechendes Motiv"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.17 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.17 (1).jpeg",
+      "hash": "d757b7b0990c80f1",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Gartenbereich mit einem Muster aus Kies und Gras, umgeben von Bäumen und einem weißen Zaun. Im Hintergrund sind Wohngebäude sichtbar.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Muster aus Kies und Gras, gepflegter Zustand"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.17.jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.17.jpeg",
+      "hash": "c79137441bb7a44d",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt einen Abschnitt eines Gartens mit einem gepflasterten Weg und einer Steinmauer, die mit kleinen Steinen gefüllt ist. Rechts ist ein Grasstreifen sichtbar.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.18 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.18 (1).jpeg",
+      "hash": "832ae7e81ad25e87",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Baum steht inmitten eines Kreisweges aus Pflastersteinen, umgeben von Grünflächen und einem Zaun im Hintergrund. Das Bild zeigt eine professionell gestaltete Gartenlandschaft.",
+        "kategorie": "Gartengestaltung & Design",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.18 (2).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.18 (2).jpeg",
+      "hash": "9371685cc7633bb0",
+      "analyse": {
+        "beschreibung": "Ein Mitarbeiter eines Garten- und Landschaftspflegebetriebs legt einen Kreis aus Pflastersteinen auf einem Rasen. Die Arbeit wird mit Werkzeugen und Materialien unterstützt.",
+        "kategorie": "Gartengestaltung & Design",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.18 (3).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.18 (3).jpeg",
+      "hash": "c33909d27b9db283",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit einem runden Pflasterweg, umgeben von Gras und Bäumen. Im Zentrum steht ein Baum mit einer Sitzbank darum herum.",
+        "kategorie": "Gartengestaltung & Design",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.18.jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.18.jpeg",
+      "hash": "82597e9de8c81f34",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Rasenbereich mit Blumenbeeten und einer gepflegten Hecke im Hintergrund. Ein geparktes Auto und ein Wohnhaus sind im Hintergrund sichtbar.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.19 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.19 (1).jpeg",
+      "hash": "86fa010d5fa76aca",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Blumenbeet mit Allium-Blüten in rosa Farben, die in einer ordentlichen Anordnung stehen. Im Hintergrund sind grüne Sträucher zu sehen.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.19 (2).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.19 (2).jpeg",
+      "hash": "b59d22b0d0d40fee",
+      "analyse": {
+        "beschreibung": "Ein prächtig gestalteter Garten mit einer Vielzahl von Blumen und Pflanzen, die in verschiedenen Farben und Größen angeordnet sind. Im Hintergrund ist eine Terrasse mit einem Tisch und Stühlen zu sehen, umgeben von grünen Hecken und Bäumen.",
+        "kategorie": "Gartengestaltung & Design",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.19 (3).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.19 (3).jpeg",
+      "hash": "96601f30f7e2ce54",
+      "analyse": {
+        "beschreibung": "Ein Bienenbesuch auf einer purpurfarbenen Blüte, die von einer großen, dichten Blütenkugel umgeben ist. Die Szene zeigt die natürliche Interaktion zwischen Insekt und Pflanze.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.19.19.jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.19.19.jpeg",
+      "hash": "d5b58c793ec06c34",
+      "analyse": {
+        "beschreibung": "Ein Bauprozess zeigt die Installation von Betonplatten für eine Terrasse oder einen Außenbereich. Die Platten liegen noch unverlegt auf dem Boden.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Betonplatten, Bodenarbeiten, Baugeräte"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.20.14 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.20.14 (1).jpeg",
+      "hash": "9071fcb7492a09f6",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt einen Garten mit blühenden Agapanthus-Blumen und einer Terrasse im Hintergrund. Ein Haus und eine Statue sind ebenfalls sichtbar.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.20.14 (2).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.20.14 (2).jpeg",
+      "hash": "d2326b4e86a1b9d6",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt zwei gelbe Blüten einer Kürbisart in einem Garten. Die Blüten sind groß und aufwendig, umgeben von grünen Blättern und Stängeln.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.20.14 (3).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.20.14 (3).jpeg",
+      "hash": "af85a0267655e8e5",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt frische Gemüse auf einem Holztisch im Freien, darunter Zucchini, Auberginen und Gurken. Der Hintergrund zeigt einen Garten mit Holzstühlen und Pflanzen.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.20.14 (4).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.20.14 (4).jpeg",
+      "hash": "baacd5864b956c52",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Auswahl von Gemüse, darunter Zucchini, Auberginen und Paprika, auf einem Holztisch.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.20.14 (5).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.20.14 (5).jpeg",
+      "hash": "f0ab69de89c99292",
+      "analyse": {
+        "beschreibung": "Ein Nahaufnahme einer lila Blüte mit grünen Blättern und einem unscharfen Hintergrund, der auf einen Garten hinweist.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.20.14.jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.20.14.jpeg",
+      "hash": "d070ef9548a95f1a",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine sonnige Gartenszene mit blühenden Agapanthus-Blumen und anderen Pflanzen. Im Hintergrund sind ein Haus und eine Terrasse zu sehen.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.20.15 (1).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.20.15 (1).jpeg",
+      "hash": "be4c464135e692bd",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit prägnanten Hecken, Blumenbeeten und einer Rasenfläche. Die Pflanzen sind gut gepflegt und der Rasen ist saftig grün.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.20.15 (10).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.20.15 (10).jpeg",
+      "hash": "94ad28d66c54da9e",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit Steinwegen, Sträuchern und Blumenpflanzen. Ein Holzterrasse und eine Steinmauer sind im Hintergrund zu sehen.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.20.15 (11).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.20.15 (11).jpeg",
+      "hash": "f05c76a5808f2d73",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit Holztisch und Stühlen auf einer Terrasse. Der Hintergrund zeigt gepflegte Hecken, Blumenbeete und Bäume.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.20.15 (12).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.20.15 (12).jpeg",
+      "hash": "ac053ab85bc0976f",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit einer Terrasse aus Holz und Stein, darauf steht ein Tisch mit Stühlen. Im Vordergrund sind Blumen und Pflanzen zu sehen, im Hintergrund sind Bäume und Hecken sichtbar.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Professionell gestaltete Terrasse mit Holz und Stein, gepflegter Garten mit Blumen und Pflanzen"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.20.15 (13).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.20.15 (13).jpeg",
+      "hash": "a4223af5b5c34b9a",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit einer Holzterrasse, einer Reihe von Stühlen und einem Blumenbeet mit lila Blüten. Die Anordnung ist ordentlich und die Pflanzen sind gut gepflegt.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.20.15 (2).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.20.15 (2).jpeg",
+      "hash": "88637a3a8f95e538",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Garten mit grünem Rasen, gepflegten Hecken und Blumenbeeten. Die Szene wirkt gepflegt und ordentlich.",
+        "kategorie": "Garten & Rasen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.20.15 (3).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.20.15 (3).jpeg",
+      "hash": "e33ca4b39aa1da92",
+      "analyse": {
+        "beschreibung": "Ein gepflegter Terrassenbereich mit Sitzmöbeln, Pflanzen und einem Wasserbecken, umgeben von grünen Hecken und Bäumen.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "professionell gestaltet, gepflegte Pflanzen, Wasserbecken"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.20.15 (4).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.20.15 (4).jpeg",
+      "hash": "e487e477391684b5",
+      "analyse": {
+        "beschreibung": "Ein Blumenbeet mit einer Vielzahl von Blumen in verschiedenen Farben und Formen, darunter rote Clematis, lila Blüten und weiße Glockenblumen, ist im Vordergrund zu sehen. Im Hintergrund ist ein graues Pflanzgefäß mit weiteren Blumen zu erkennen. Die Szene ist in einem hellen Raum mit großen Fenstern, vermutlich einem Wintergarten oder einer Terrasse, aufgenommen.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.20.15 (5).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.20.15 (5).jpeg",
+      "hash": "ff27841517c9c893",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Pflanze mit leuchtend roten und weißen Blüten in einem sonnigen Innenraum, wahrscheinlich in einem Gewächshaus.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leuchtende Farben, sonniger Hintergrund"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.20.15 (6).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.20.15 (6).jpeg",
+      "hash": "fdc1948be6387063",
+      "analyse": {
+        "beschreibung": "Ein Blumenbeet mit einer Vielzahl von Blumen und grünen Pflanzen, darunter helle und dunkle Blüten, ist im Vordergrund zu sehen. Im Hintergrund ist ein gepflasterter Boden sichtbar.",
+        "kategorie": "Pflanzen & Blumen",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.20.15 (7).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.20.15 (7).jpeg",
+      "hash": "e035dc786e92c85b",
+      "analyse": {
+        "beschreibung": "Das Bild zeigt eine Pflanze mit großen, weißen Blüten in einem grauen Pflanzkübel auf einer Terrasse. Im Hintergrund sind Holzstühle und ein Fenster zu sehen.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "leer string"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.20.15 (8).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.20.15 (8).jpeg",
+      "hash": "a631b4b6acb0e66a",
+      "analyse": {
+        "beschreibung": "Ein sonniger Balkon mit Holzmöbeln, Pflanzenkübeln und Blick auf grüne Bäume und Hügel im Hintergrund.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Blick auf Natur, gepflegter Balkon, sonniges Wetter"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    },
+    {
+      "dateiname": "WhatsApp Image 2026-03-16 at 15.20.15 (9).jpeg",
+      "pfad": "/Users/flutter/Downloads/monikas-bilder/WhatsApp Image 2026-03-16 at 15.20.15 (9).jpeg",
+      "hash": "e8d8ef980721de46",
+      "analyse": {
+        "beschreibung": "Ein sonniger Balkon mit Holztisch und Stühlen, umgeben von Pflanzen und Blumen in grauen Pflanzkübeln. Die Terrasse ist mit weißen Jalousien und einer Glaswand abgeschlossen.",
+        "kategorie": "Terrasse & Außenbereich",
+        "qualitaet": "gut",
+        "webseitengeeignet": true,
+        "besonderheiten": "Professionell wirkend, ansprechendes Motiv"
+      },
+      "ausgewaehlt": true,
+      "doppelt_von": null
+    }
+  ]
+}
