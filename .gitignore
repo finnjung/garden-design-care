@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# AI tool artifacts
+.claude-flow/
+.swarm/
+
+# Secrets
+.env
+.env.*
+
+# AI / local tools
+.claude/
