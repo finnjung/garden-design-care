@@ -14,6 +14,7 @@ SFTP_USER="54235949.swh.strato-hosting.eu"
 SFTP_PASS="UnserGarten18"
 SFTP_PORT="22"
 REMOTE_DIR="/new-website"
+REMOTE_DIR_WP="/WordPress_01/new"
 
 # Farben für Terminal-Output
 RED='\033[0;31m'
@@ -85,6 +86,9 @@ upload_file "turnstile-verify.php" "$REMOTE_DIR/"
 show_info "Upload andere Dateien..."
 upload_file "robots.txt" "$REMOTE_DIR/"
 upload_file "sitemap.xml" "$REMOTE_DIR/"
+if [ -f ".htaccess" ]; then
+    upload_file ".htaccess" "$REMOTE_DIR/"
+fi
 if [ -f ".env" ]; then
     upload_file ".env" "$REMOTE_DIR/"
 fi
@@ -97,16 +101,54 @@ upload_file "css/style.css" "$REMOTE_DIR/css/"
 show_info "Upload JavaScript Dateien..."
 upload_file "js/script.js" "$REMOTE_DIR/js/"
 
-# Upload Bilder
+# Upload Bilder (Root)
 show_info "Upload Bilder..."
-for file in images/*.{svg,webp,jpg,jpeg,png,gif}; do
+for file in images/*.{svg,webp,jpg,jpeg,png,gif,JPG}; do
     if [ -f "$file" ]; then
-        filename=$(basename "$file")
         upload_file "$file" "$REMOTE_DIR/images/"
     fi
 done
 
+# Galerie-Ordner auf Server erstellen (falls nicht vorhanden)
+show_info "Erstelle Galerie-Ordner auf Server..."
+echo "mkdir $REMOTE_DIR/images/galerie" | sshpass -p "$SFTP_PASS" sftp -P $SFTP_PORT -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null $SFTP_USER@$SFTP_HOST > /dev/null 2>&1
+
+# Upload Galerie-Unterordner
+show_info "Upload Galerie-Bilder (160 Dateien)..."
+for file in images/galerie/*.{webp,png,svg,json}; do
+    if [ -f "$file" ]; then
+        upload_file "$file" "$REMOTE_DIR/images/galerie/"
+    fi
+done
+
 show_success "Upload erfolgreich abgeschlossen!"
+
+# -----------------------------------------------
+# Deploy auch nach WordPress_01/new (HTTPS)
+# -----------------------------------------------
+show_info "Deploy nach gardendesignundcare.de/new ..."
+
+# Ordnerstruktur anlegen
+for dir in "" "/css" "/js" "/images" "/images/galerie"; do
+    echo "mkdir $REMOTE_DIR_WP$dir" | sshpass -p "$SFTP_PASS" sftp -P $SFTP_PORT -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null $SFTP_USER@$SFTP_HOST > /dev/null 2>&1
+done
+
+# Dateien hochladen (gleiche Logik, anderes Zielverzeichnis)
+for file in index.html impressum.html datenschutz.html contact.php turnstile-verify.php robots.txt sitemap.xml; do
+    [ -f "$file" ] && upload_file "$file" "$REMOTE_DIR_WP/"
+done
+[ -f ".htaccess" ] && upload_file ".htaccess" "$REMOTE_DIR_WP/"
+[ -f ".env" ] && upload_file ".env" "$REMOTE_DIR_WP/"
+upload_file "css/style.css" "$REMOTE_DIR_WP/css/"
+upload_file "js/script.js" "$REMOTE_DIR_WP/js/"
+for file in images/*.{svg,webp,jpg,jpeg,png,gif,JPG}; do
+    [ -f "$file" ] && upload_file "$file" "$REMOTE_DIR_WP/images/"
+done
+for file in images/galerie/*.{webp,png,svg,json}; do
+    [ -f "$file" ] && upload_file "$file" "$REMOTE_DIR_WP/images/galerie/"
+done
+
+show_success "WordPress-Deploy abgeschlossen!"
 
 # Zeige Upload-Statistik
 echo ""
@@ -129,7 +171,8 @@ echo "  Bilder:                 $img_count"
 echo "================================================"
 
 show_success "Website ist jetzt online unter:"
-echo "  🌐 https://gardendesignundcare.de/new-website/"
+echo "  🌐 http://new.gardendesignundcare.de"
+echo "  🔒 https://gardendesignundcare.de/new"
 
 # Optional: Zeige letzte Änderungen
 echo ""
